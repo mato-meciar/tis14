@@ -1,5 +1,5 @@
-tis14
-=====
+Tvorba Informačných Systémov 2014
+=================================
 
 Webová aplikácia na hľadanie a kontaktovanie učiteľov a študentov vrátane správy mailov
 ---------------------------------------------------------------------------------------
