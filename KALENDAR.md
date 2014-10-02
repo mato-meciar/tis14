@@ -1,7 +1,7 @@
 Kalendár
 
 * ~~do 26.9.2014, 18:00 zloženie skupiny a želané projekty~~
-* ~~do 30.09.2013, priradenie projektov k skupinám (zobrazí sa na tejto stránke)~~
+* ~~do 30.09.2013, priradenie projektov k skupinám~~
 * do 3.10.2014, 12:20 Plán projektu, 5 bodov
 * do 10.10.2014, 12:20 Katalóg požiadaviek 5 bodov
 * do 17.10.2014, 12:20 Konceptuálna analýza, 5 bodov
