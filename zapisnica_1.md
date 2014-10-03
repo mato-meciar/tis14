@@ -1,5 +1,7 @@
 Datum: 3.10.2014
+
 Pritomni: Martin Meciar, Robert Ivan, Alex Mendel, Roman Vrecnik
+
 Agenda:
 * plan projektu
 * dohodnutie terminu stretnutia so zadavatelom
