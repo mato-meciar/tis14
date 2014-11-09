@@ -3,7 +3,7 @@ Datum: 30.10.2014
 Pritomni: Martin Meciar, Robert Ivan, Alex Mendel, Roman Vrecnik, Radoslav Skoviera
 
 Agenda:
-* konzultacia s cviciacim
+    konzultacia s cviciacim
 
 Hodnotenie predchadzajucich uloh:
 * vypracovanie katalogu poziadaviek - splnene 
