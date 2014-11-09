@@ -3,7 +3,8 @@ Datum: 13.10.2014
 Pritomni: Martin Meciar, Robert Ivan, Alex Mendel, Roman Vrecnik, Jan Hreha
 
 Agenda:
-* zistovanie planu prace od zadavatela
+
+zistovanie planu prace od zadavatela
 
 Hodnotenie predchadzajucich uloh:
 * stretnutie so zadavatelom - splnene
