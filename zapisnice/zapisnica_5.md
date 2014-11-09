@@ -15,8 +15,3 @@ Naplanovane ulohy:
 
     vypracovanie konceptualnej analyzy
     vypracovanie analyzy technologii, dekompozicie, datovy model
-
-Test:
-    
-    sss
-    s
