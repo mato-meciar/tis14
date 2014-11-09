@@ -8,7 +8,7 @@ Agenda:
 
 Hodnotenie predchadzajucich uloh:
 
-    stretnutie so cviciacim- splnene
+    stretnutie so cviciacim - splnene
     vypracovanie katalogu poziadaviek - NEsplnene z dôvodu neskoreho stretnutia so zadavatelom
 
 Naplanovane ulohy:
