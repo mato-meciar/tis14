@@ -9,7 +9,6 @@ Agenda:
 Hodnotenie predchadzajucich uloh:
 
     vypracovanie konceptualnej analyzy - NEsplnene
-   
     vypracovanie analyzy technologii, dekompozicie, datovy model - NEsplnene
 
 Naplanovane ulohy:
@@ -17,3 +16,7 @@ Naplanovane ulohy:
     vypracovanie konceptualnej analyzy
     vypracovanie analyzy technologii, dekompozicie, datovy model
 
+Test:
+    
+    sss
+    s
