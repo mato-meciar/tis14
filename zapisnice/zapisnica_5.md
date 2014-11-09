@@ -8,7 +8,8 @@ Agenda:
 
 Hodnotenie predchadzajucich uloh:
 
-   vypracovanie konceptualnej analyzy - NEsplnene
+    vypracovanie konceptualnej analyzy - NEsplnene
+   
     vypracovanie analyzy technologii, dokompozicie, datovy model - NEsplnene
 
 Naplanovane ulohy:
