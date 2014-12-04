@@ -8,7 +8,7 @@ Agenda:
 
 Hodnotenie predchadzajucich uloh:
 
-    ziskanie databazy - NEsplnene z dovodu nedostatocneho vysvetlenia situacie
+    ziskanie databazy - NEsplnene z dovodu nedostatocneho vysvetlenia a nepochopenia situacie zo strany poskytovatela
 
 Naplanovane ulohy:
 
