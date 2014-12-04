@@ -1,6 +1,6 @@
 Datum: 17.11.2014
 
-Pritomni: Martin Meciar, Robert Ivan, Alex Mendel, Roman Vrecnik, RNDr. Richard Ostertág PhD., KI
+Pritomni: Martin Meciar, Robert Ivan, Alex Mendel, Roman Vrecnik, RNDr. Richard Ostertág PhD., KI a kolektív
 
 Agenda:
 
