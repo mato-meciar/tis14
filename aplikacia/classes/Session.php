@@ -18,6 +18,11 @@ class Session {
 			unset($_SESSION[$name]);
 
 	}
+	public static function destroy(){
+		session_unset();
+		header('Location: index.php');
+		die();
+	}
 
 	public static function flash($name, $string = ''){			//vrati a vymaeze session 
 		if(self::exists($name) && $string == ''){				//este neviem ci tuto funkciu nechat

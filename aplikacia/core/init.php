@@ -6,18 +6,20 @@ $GLOBALS['config'] = array(         //globalna premnenna s configuracnymi udajmi
         'host'     => '127.0.0.1',
         'username' => 'root',
         'password' => '',
-        'db'       => 'social'
+        'db'       => 'fmfi'
     ),
     'session' =>array(              //  session admina
-        'session_name' => 'user',   
-        'token_name'   => 'token'   //este neviem ci nechat
+        'session_name' => 'admin',   
+        'token_name'   => 'FMFIAdminToken'   
 
     )
 );
 
 spl_autoload_register(function($class){
-  require_once 'classes/'. $class. '.php';  
+
+    if(! @require_once( 'classes/'. $class. '.php')){
+        require_once '../classes/'. $class. '.php';
+    };  
 });
 
-require_once 'functions/sanitaze.php';
 ?>

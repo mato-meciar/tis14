@@ -32,7 +32,7 @@
             $this->_query->bindValue($x, $param);
             $x++;
           }
-        //echo $sql;
+
         if($this->_query->execute()){
           $this->_results = $this->_query->fetchAll(PDO::FETCH_OBJ);
           $this->_count   = $this->_query->rowCount();           
@@ -43,18 +43,23 @@
       return $this;
     }
     
-    private function action($action, $table, $where) {
-        $operators = array('=','<','>','<=','>=');
+    private function action($action, $table, $where = array()){
+        $operators = array('=','<','>','<=','>=', 'LIKE');
         $sql = "{$action} FROM {$table}";
         $value = "";
         
         if(count($where) === 3 && in_array($where[1], $operators) ){
-          $field      = $where[0];
+          
+          if(count($where[0]) > 1){
+            $field = '(CONCAT('.implode(',', $where[0]).'))';
+          }else
+            $field      = $where[0];
+
           $operator   = $where[1];
           $value      = $where[2];
           
           $sql .= " WHERE {$field} {$operator} ?";
-          }         
+          }        
           if(!$this->query($sql, array($value))->error()){
             return $this;
             }
@@ -63,7 +68,19 @@
     }
     
     public function get($table, $where = array()){
-        return $this->action('SELECT *', $table, $where);
+      return $this->action("SELECT *", $table, $where);
+    }
+
+    public function getSearchRes($select = array(), $table = "", $where = array()){
+      if($table == "") return;
+
+      if(count($select) < 2) 
+        $select = $select[0];
+      else {
+        $where[0] = $select;
+        $select = 'CONCAT('.implode(",' ', ", $select).'),' . $table.'.*'; 
+      }
+      return $this->action("SELECT {$select}", $table, $where);
     }
     
     public function delete($table, $where = array()){
@@ -75,7 +92,6 @@
         $keys   = array_keys($fields);
         
         $sql = "INSERT INTO {$table} (`" . implode('`, `',$keys) . "`) VALUES (". str_repeat( "?, " , count($keys)-1 ) . "?)";
-        print_r($fields);
         if(!$this->query($sql, $fields)->error()){
           return true;
         } 
