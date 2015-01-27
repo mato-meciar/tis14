@@ -3,8 +3,9 @@
 		echo "<a href='index.php?page=login'>Login</a> ";
 	else
 		echo "<a href='index.php?page=control_panel'>Control Panel</a> ";
+	header('Content-Type: text/html; charset=UTF-8');
 ?>
-Vyhladaj: &nbsp
+Vyhľadaj: &nbsp
 	<input type="text" id="vyhladavac">
 
 	<div id="searchResult">

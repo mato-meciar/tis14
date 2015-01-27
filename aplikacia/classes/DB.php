@@ -9,8 +9,8 @@
             
     private function __construct(){
       try{
-        $this->_pdo = new PDO('mysql:host='. Config::get('mysql/host') .';dbname=' .Config::get('mysql/db'). '', Config::get('mysql/username'), Config::get('mysql/password'));
-        //echo 'Connected';              
+        $this->_pdo = new PDO('mysql:host='. Config::get('mysql/host') .';dbname=' .Config::get('mysql/db'). ';charset=utf8', Config::get('mysql/username'), Config::get('mysql/password'));
+        //echo 'Connected';            
       }catch(PDOException $e){
         die($e->getMessage());
       }

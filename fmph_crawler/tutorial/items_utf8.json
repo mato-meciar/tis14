@@ -1,0 +1,614 @@
+[{"klapka": "287", "priezvisko": "Adameková", "email": "Kamila.Adamekova@fmph.uniba.sk", "meno": "Kamila", "katedra": "KAFZM", "miestnost": "F1 338"}
+,{"klapka": "177", "priezvisko": "Amena", "email": "Michal.Amena@fmph.uniba.sk", "meno": "Michal", "katedra": "KAFZM", "miestnost": "F2 89"}
+,{"klapka": "451", "priezvisko": "Andel", "email": "Boris.Andel@fmph.uniba.sk", "meno": "Boris", "katedra": "KJFB", "miestnost": "F1 257"}
+,{"klapka": "497", "priezvisko": "Anguš", "email": "Michal.Angus@fmph.uniba.sk", "meno": "Michal", "katedra": "KEF", "miestnost": "F2 42"}
+,{"klapka": "368", "priezvisko": "Annušová", "email": "Adriana.Annusova@fmph.uniba.sk", "meno": "Adriana", "katedra": "KEF", "miestnost": "F2 155"}
+,{"klapka": "248", "priezvisko": "Antalic", "email": "Jaroslav.Antalic@fmph.uniba.sk", "meno": "Jaroslav", "katedra": "SB", "miestnost": "F2 -104"}
+,{"klapka": "453", "priezvisko": "Antalic", "email": "Stanislav.Antalic@fmph.uniba.sk", "meno": "Stanislav", "katedra": "KJFB", "miestnost": "F1 270"}
+,{"klapka": "301", "priezvisko": "Astaloš", "email": "Robert.Astalos@fmph.uniba.sk", "meno": "Róbert", "katedra": "KJFB", "miestnost": "F1 266"}
+,{"klapka": "176", "priezvisko": "Augustín", "email": "Peter.Augustin@fmph.uniba.sk", "meno": "Peter", "katedra": "KTFDF", "miestnost": "F2 132"}
+,{"klapka": "726", "priezvisko": "Erdélyi", "email": "Ladislav.Erdelyi@fmph.uniba.sk", "meno": "Ladislav", "katedra": "KJP", "miestnost": "F1 325"}
+,{"klapka": "685", "priezvisko": "Babincová", "email": "Melania.Babincova@fmph.uniba.sk", "meno": "Melánia", "katedra": "KJFB", "miestnost": "F1 226"}
+,{"klapka": "(674)", "priezvisko": "Babinec", "email": "Peter.Babinec@fmph.uniba.sk", "meno": "Peter", "katedra": "KJFB", "miestnost": "F1 349"}
+,{"klapka": "782", "priezvisko": "Babušík", "email": "Milan.Babusik@fmph.uniba.sk", "meno": "Milan", "katedra": "VC", "miestnost": "M 164"}
+,{"klapka": "712", "priezvisko": "Babušíková", "email": "Jela.Babusikova@fmph.uniba.sk", "meno": "Jela", "katedra": "KMANM", "miestnost": "M 229"}
+,{"klapka": "638", "priezvisko": "Bachratá", "email": "Alena.Bachrata@fmph.uniba.sk", "meno": "Alena", "katedra": "KAMS", "miestnost": "M 220"}
+,{"meno": "Zita", "miestnost": "F2 174", "priezvisko": "Bajúszová", "email": "Zita.Bajuszova@fmph.uniba.sk", "katedra": "CITUK"}
+,{"meno": "Tibor", "miestnost": "AGO ", "priezvisko": "Bako", "email": "Tibor.Bako@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "444", "priezvisko": "Baláž", "email": "Martin.Balaz@fmph.uniba.sk", "meno": "Martin", "katedra": "KAI", "miestnost": "I 7"}
+,{"klapka": "658", "priezvisko": "Balek", "email": "Vladimir.Balek@fmph.uniba.sk", "meno": "Vladimír", "katedra": "KTFDF", "miestnost": "F2 105"}
+,{"klapka": "688", "priezvisko": "Fabo", "email": "Peter.Fabo@fmph.uniba.sk", "meno": "Peter", "katedra": "KEF", "miestnost": "F2 251"}
+,{"klapka": "621", "priezvisko": "Farkaš", "email": "Igor.Farkas@fmph.uniba.sk", "meno": "Igor", "katedra": "KAI", "miestnost": "I 35"}
+,{"klapka": "664", "priezvisko": "Fecko", "email": "Marian.Fecko@fmph.uniba.sk", "meno": "Marián", "katedra": "KTFDF", "miestnost": "F2 107"}
+,{"klapka": "781", "priezvisko": "Fečkan", "email": "Michal.Feckan@fmph.uniba.sk", "meno": "Michal", "katedra": "KMANM", "miestnost": "M 171"}
+,{"klapka": "498", "priezvisko": "Ferko", "email": "Andrej.Ferko@fmph.uniba.sk", "meno": "Andrej", "katedra": "KAGDM", "miestnost": "M 151"}
+,{"meno": "Michal", "miestnost": "M 123", "priezvisko": "Ferko", "email": "Michal.Ferko@fmph.uniba.sk", "katedra": "KI"}
+,{"meno": "Štefan", "miestnost": "AGO,F2 204", "priezvisko": "Gajdoš", "email": "Stefan.Gajdos@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"meno": "Tomáš", "miestnost": "F2 170", "priezvisko": "Gál", "email": "Tomas.Gal@fmph.uniba.sk", "katedra": "CITUK"}
+,{"meno": "Adrián", "miestnost": "AGO,F2 207", "priezvisko": "Galád", "email": "Adrian.Galad@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "656", "priezvisko": "Gáliková", "email": "Margita.Galikova@fmph.uniba.sk", "meno": "Margita", "katedra": "KEC", "miestnost": "I 30"}
+,{"klapka": "176", "priezvisko": "Gáliková", "email": "Veronika.Galikova@fmph.uniba.sk", "meno": "Veronika", "katedra": "KTFDF", "miestnost": "F2 132"}
+,{"klapka": "215", "priezvisko": "Damborská", "email": "Ingrid.Damborska@fmph.uniba.sk", "meno": "Ingrid", "katedra": "KAFZM", "miestnost": "F1 368"}
+,{"klapka": "289", "priezvisko": "Danko", "email": "Marian.Danko@fmph.uniba.sk", "meno": "Marián", "katedra": "KEF", "miestnost": "F2 71"}
+,{"klapka": "521", "priezvisko": "Demetrian", "email": "Michal.Demetrian@fmph.uniba.sk", "meno": "Michal", "katedra": "KMANM", "miestnost": "M 105"}
+,{"klapka": "661", "priezvisko": "Demkanin", "email": "Peter.Demkanin@fmph.uniba.sk", "meno": "Peter", "katedra": "KTFDF", "miestnost": "F1 165"}
+,{"klapka": "265", "priezvisko": "Dian", "email": "Martin.Dian@fmph.uniba.sk", "meno": "Martin", "katedra": "KEF", "miestnost": "F2 276"}
+,{"klapka": "202", "priezvisko": "Ballayová", "email": "Zuzana.Ballayova@fmph.uniba.sk", "meno": "Zuzana", "katedra": "KMANM", "miestnost": "M 176"}
+,{"klapka": "421", "priezvisko": "Bartoš", "email": "Pavol.Bartos@fmph.uniba.sk", "meno": "Pavol", "katedra": "KJFB", "miestnost": "F1 363"}
+,{"klapka": "821", "priezvisko": "Bartošová", "email": "Zina.Bartosova@fmph.uniba.sk", "meno": "Zina", "katedra": "KEC", "miestnost": "I 29"}
+,{"klapka": "285", "priezvisko": "Bartošovič", "email": "Lukas.Bartosovic@fmph.uniba.sk", "meno": "Lukáš", "katedra": "KTFDF", "miestnost": "F1 250"}
+,{"meno": "Jana", "priezvisko": "Bašnáková", "email": "Jana.Basnakova@fmph.uniba.sk", "katedra": "KAI"}
+,{"meno": "Ďurán Ivan", "miestnost": "ČHMÚ ", "priezvisko": "Bašták", "email": "DuranIvan.Bastak@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"meno": "Mária", "miestnost": "F1 148", "priezvisko": "Figurová", "email": "Maria.Figurova@fmph.uniba.sk", "katedra": "KTFDF"}
+,{"klapka": "198", "priezvisko": "Fila", "email": "Marek.Fila@fmph.uniba.sk", "meno": "Marek", "katedra": "KAMS", "miestnost": "M 272"}
+,{"klapka": "192", "priezvisko": "Filo", "email": "Jan.Filo@fmph.uniba.sk", "meno": "Ján", "katedra": "KMANM", "miestnost": "M 110"}
+,{"klapka": "716", "priezvisko": "Filová", "email": "Lenka.Filova@fmph.uniba.sk", "meno": "Lenka", "katedra": "KAMS", "miestnost": "M 240"}
+,{"klapka": "120", "priezvisko": "Fischer", "email": "Ludovit.Fischer@fmph.uniba.sk", "meno": "Ľudovít", "katedra": "KEF", "miestnost": "F2 241"}
+,{"klapka": "651", "priezvisko": "Florek", "email": "Matej.Florek@fmph.uniba.sk", "meno": "Matej", "katedra": "KJFB", "miestnost": "F1 271"}
+,{"klapka": "838", "priezvisko": "Forišek", "email": "Michal.Forisek@fmph.uniba.sk", "meno": "Michal", "katedra": "KI", "miestnost": "M 263"}
+,{"klapka": "167", "priezvisko": "Gális", "email": "Martin.Galis@fmph.uniba.sk", "meno": "Martin", "katedra": "KAFZM", "miestnost": "F1 206"}
+,{"meno": "Zuzana", "miestnost": "F1 347", "priezvisko": "Garaiová", "email": "Zuzana.Garaiova@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "199", "priezvisko": "Gašparík-Hložan", "email": "Peter.Gasparik-Hlozan@fmph.uniba.sk", "meno": "Peter", "katedra": "VL", "miestnost": "D 237"}
+,{"klapka": "675", "priezvisko": "Gašparová", "email": "Iveta.Gasparova@fmph.uniba.sk", "meno": "Iveta", "katedra": "DEK", "miestnost": "M 3"}
+,{"klapka": "732", "priezvisko": "Gašparovičová", "email": "Ludmila.Gasparovicova@fmph.uniba.sk", "meno": "Ľudmila", "katedra": "DEK", "miestnost": "M 5"}
+,{"meno": "Mária", "miestnost": "M 123", "priezvisko": "Gemeranová", "email": "Maria.Gemeranova@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "625", "priezvisko": "Dillinger", "email": "Viliam.Dillinger@fmph.uniba.sk", "meno": "Viliam", "katedra": "KAI", "miestnost": "I 42"}
+,{"klapka": "323", "priezvisko": "Dillingerová", "email": "Monika.Dillingerova@fmph.uniba.sk", "meno": "Monika", "katedra": "KAGDM", "miestnost": "M 149"}
+,{"meno": "Mária", "miestnost": "F2 174", "priezvisko": "Dományová", "email": "Maria.Domanyova@fmph.uniba.sk", "katedra": "CITUK"}
+,{"meno": "Martin", "priezvisko": "Dovičák", "email": "Martin.Dovicak@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "657", "priezvisko": "Dubničková", "email": "AnnaZuzana.Dubnickova@fmph.uniba.sk", "meno": "Anna Zuzana", "katedra": "KTFDF", "miestnost": "F2 104"}
+,{"klapka": "773", "priezvisko": "Dudík", "email": "Jaroslav.Dudik@fmph.uniba.sk", "meno": "Jaroslav", "katedra": "KAFZM", "miestnost": "F2 202"}
+,{"klapka": "225", "priezvisko": "Candráková", "email": "Barbora.Candrakova@fmph.uniba.sk", "meno": "Barbora", "katedra": "KI", "miestnost": "M 249"}
+,{"meno": "Gabriela Milagros", "miestnost": "F1 347", "priezvisko": "Castillo Bautista", "email": "GabrielaMilagros.CastilloBautista@fmph.uniba.sk", "katedra": "KJFB"}
+,{"meno": "Barbora", "miestnost": "I 11", "priezvisko": "Cimrová", "email": "Barbora.Cimrova@fmph.uniba.sk", "katedra": "KAI"}
+,{"klapka": "177", "priezvisko": "Ďubeková", "email": "Lucia.Dubekova@fmph.uniba.sk", "meno": "Lucia", "katedra": "KAFZM", "miestnost": "F2 -210"}
+,{"klapka": "879", "priezvisko": "Ďurikovič", "email": "Roman.Durikovic@fmph.uniba.sk", "meno": "Roman", "katedra": "KAI", "miestnost": "I 14"}
+,{"klapka": "272, 243", "priezvisko": "Ďurina", "email": "Pavol.Durina@fmph.uniba.sk", "meno": "Pavol", "katedra": "KEF", "miestnost": "F2 P4"}
+,{"klapka": "836", "priezvisko": "Ďuriš", "email": "Frantisek.Duris@fmph.uniba.sk", "meno": "František", "katedra": "KI", "miestnost": "M 101"}
+,{"klapka": "164", "priezvisko": "Ďuriš", "email": "Pavol.Duris@fmph.uniba.sk", "meno": "Pavol", "katedra": "KI", "miestnost": "M 256"}
+,{"meno": "Martina", "miestnost": "M 153", "priezvisko": "Bátorová", "email": "Martina.Batorova@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "850", "priezvisko": "Bebják", "email": "Andrej.Bebjak@fmph.uniba.sk", "meno": "Andrej", "katedra": "KI", "miestnost": "M 212"}
+,{"klapka": "638", "priezvisko": "Bednáriková", "email": "Eva.Bednarikova@fmph.uniba.sk", "meno": "Eva", "katedra": "KAMS", "miestnost": "M 220"}
+,{"klapka": "210", "priezvisko": "Bejdová", "email": "Veronika.Bejdova@fmph.uniba.sk", "meno": "Veronika", "katedra": "KZVI", "miestnost": "I 33"}
+,{"meno": "Anton", "priezvisko": "Belan", "email": "Anton.Belan@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"meno": "Michal", "miestnost": "F1 266", "priezvisko": "Belička", "email": "Michal.Belicka@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "426", "priezvisko": "Belluš", "email": "Martin.Bellus@fmph.uniba.sk", "meno": "Martin", "katedra": "CPP", "miestnost": "F1 156"}
+,{"klapka": "444", "priezvisko": "Frtús", "email": "Jozef.Frtus@fmph.uniba.sk", "meno": "Jozef", "katedra": "KAI", "miestnost": "I 7"}
+,{"klapka": "802", "priezvisko": "Frýželka", "email": "Stanislav.Fryzelka@fmph.uniba.sk", "meno": "Stanislav", "katedra": "KTVS", "miestnost": "SG 2"}
+,{"klapka": "442", "priezvisko": "Ftáčnik", "email": "Milan.Ftacnik@fmph.uniba.sk", "meno": "Milan", "katedra": "KAI", "miestnost": "I 5"}
+,{"klapka": "863", "priezvisko": "Gera", "email": "Martin.Gera@fmph.uniba.sk", "meno": "Martin", "katedra": "KAFZM", "miestnost": "F1 370"}
+,{"klapka": "285", "priezvisko": "Gergeľová", "email": "Bianka.Gergelova@fmph.uniba.sk", "meno": "Bianka", "katedra": "KTFDF", "miestnost": "F1 250"}
+,{"klapka": "195", "priezvisko": "Gersová", "email": "Adriana.Gersova@fmph.uniba.sk", "meno": "Adriana", "katedra": "KEC", "miestnost": "I 31"}
+,{"klapka": "711", "priezvisko": "Gombárik", "email": "Pavel.Gombarik@fmph.uniba.sk", "meno": "Pavel", "katedra": "KJP", "miestnost": "F2 285"}
+,{"klapka": "247, 518", "priezvisko": "Grajcar", "email": "Miroslav.Grajcar@fmph.uniba.sk", "meno": "Miroslav", "katedra": "KEF", "miestnost": "F2 248"}
+,{"klapka": "271, 244", "priezvisko": "Grančič", "email": "Branislav.Grancic@fmph.uniba.sk", "meno": "Branislav", "katedra": "KEF", "miestnost": "F2 P6"}
+,{"meno": "Ján", "miestnost": "F2 173", "priezvisko": "Durkaj", "email": "Jan.Durkaj@fmph.uniba.sk", "katedra": "CITUK"}
+,{"meno": "Elena", "priezvisko": "Dzifčáková", "email": "Elena.Dzifcakova@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "185", "priezvisko": "Chalmovianská", "email": "Jana.Chalmovianska@fmph.uniba.sk", "meno": "Jana", "katedra": "KAGDM", "miestnost": "M 114"}
+,{"klapka": "229", "priezvisko": "Chalmovianský", "email": "Pavel.Chalmoviansky@fmph.uniba.sk", "meno": "Pavel", "katedra": "KAGDM", "miestnost": "M 158"}
+,{"klapka": "249", "priezvisko": "Chlad", "email": "Mirko.Chlad@fmph.uniba.sk", "meno": "Mirko", "katedra": "DEK", "miestnost": "F2 -148"}
+,{"klapka": "729", "priezvisko": "Chládek", "email": "Michal.Chladek@fmph.uniba.sk", "meno": "Michal", "katedra": "KAI", "miestnost": "M 113"}
+,{"klapka": "180", "priezvisko": "Chladná", "email": "Zuzana.Chladna@fmph.uniba.sk", "meno": "Zuzana", "katedra": "KAMS", "miestnost": "M 206"}
+,{"meno": "Ľudovít", "miestnost": "MLC ", "priezvisko": "Haizer", "email": "Ludovit.Haizer@fmph.uniba.sk", "katedra": "KEF"}
+,{"klapka": "760", "priezvisko": "Haladová", "email": "Zuzana.Haladova@fmph.uniba.sk", "meno": "Zuzana", "katedra": "KAI", "miestnost": "M 153"}
+,{"klapka": "386", "priezvisko": "Halanda", "email": "Juraj.Halanda@fmph.uniba.sk", "meno": "Juraj", "katedra": "KEF", "miestnost": "F2 297"}
+,{"klapka": "723", "priezvisko": "Halická", "email": "Margareta.Halicka@fmph.uniba.sk", "meno": "Margaréta", "katedra": "KAMS", "miestnost": "M 268"}
+,{"klapka": "755", "priezvisko": "Benešová", "email": "Maria.Benesova@fmph.uniba.sk", "meno": "Mária", "katedra": "KEC", "miestnost": "M 136"}
+,{"meno": "Martin", "miestnost": "SHMÚ ", "priezvisko": "Benko", "email": "Martin.Benko@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "451", "priezvisko": "Beňo", "email": "Juraj.Beno@fmph.uniba.sk", "meno": "Juraj", "katedra": "KJFB", "miestnost": "F1 257"}
+,{"klapka": "496, 857", "priezvisko": "Beňovič", "email": "Dusan.Benovic@fmph.uniba.sk", "meno": "Dušan", "katedra": "DEK", "miestnost": "F2 286"}
+,{"klapka": "821", "priezvisko": "Berezňáková", "email": "Judita.Bereznakova@fmph.uniba.sk", "meno": "Judita", "katedra": "KEC", "miestnost": "I 29"}
+,{"klapka": "462", "priezvisko": "Bezák", "email": "Viktor.Bezak@fmph.uniba.sk", "meno": "Viktor", "katedra": "KEF", "miestnost": "F2 239"}
+,{"klapka": "274, 243, 190", "priezvisko": "Gregor", "email": "Maros.Gregor@fmph.uniba.sk", "meno": "Maroš", "katedra": "KEF", "miestnost": "F2 P3"}
+,{"klapka": "263, 334", "priezvisko": "Greguš", "email": "Jan.Gregus@fmph.uniba.sk", "meno": "Ján", "katedra": "KEF", "miestnost": "F2 249"}
+,{"meno": "Róbert", "miestnost": "F2 170", "priezvisko": "Grenčík", "email": "Robert.Grencik@fmph.uniba.sk", "katedra": "CITUK"}
+,{"klapka": "134", "priezvisko": "Grendár", "email": "Marian.Grendar@fmph.uniba.sk", "meno": "Marián", "katedra": "KAMS", "miestnost": "M 276"}
+,{"meno": "Marián", "miestnost": "F1 347", "priezvisko": "Grman", "email": "Marian.Grman@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "194", "priezvisko": "Grofičová", "email": "Ivana.Groficova@fmph.uniba.sk", "meno": "Ivana", "katedra": "DEK", "miestnost": "F2 92"}
+,{"klapka": "846", "priezvisko": "Gruska", "email": "Damas.Gruska@fmph.uniba.sk", "meno": "Damas", "katedra": "KAI", "miestnost": "I 20"}
+,{"klapka": "714", "priezvisko": "Chocholatý", "email": "Pavol.Chocholaty@fmph.uniba.sk", "meno": "Pavol", "katedra": "KMANM", "miestnost": "M 228"}
+,{"klapka": "223", "priezvisko": "Chorvát", "email": "Dusan.Chorvat@fmph.uniba.sk", "meno": "Dušan", "katedra": "KJFB", "miestnost": "F1 MLC"}
+,{"klapka": "542", "priezvisko": "Chudý", "email": "Martin.Chudy@fmph.uniba.sk", "meno": "Martin", "katedra": "KJFB", "miestnost": "F1 275"}
+,{"klapka": "680", "priezvisko": "Hamala", "email": "Milan.Hamala@fmph.uniba.sk", "meno": "Milan", "katedra": "KAMS", "miestnost": "M 232"}
+,{"klapka": "630", "priezvisko": "Hamara", "email": "Michal.Hamara@fmph.uniba.sk", "meno": "Michal", "katedra": "KAFZM", "miestnost": "F2 203"}
+,{"klapka": "763", "priezvisko": "Hanuska", "email": "Eduard.Hanuska@fmph.uniba.sk", "meno": "Eduard", "katedra": "KJFB", "miestnost": "F1 303"}
+,{"klapka": "717", "priezvisko": "Harman", "email": "Radoslav.Harman@fmph.uniba.sk", "meno": "Radoslav", "katedra": "KAMS", "miestnost": "M 246"}
+,{"meno": "Valéria", "miestnost": "F2 173", "priezvisko": "Harvanová", "email": "Valeria.Harvanova@fmph.uniba.sk", "katedra": "CITUK"}
+,{"klapka": "763", "priezvisko": "Haško", "email": "Jozef.Hasko@fmph.uniba.sk", "meno": "Jozef", "katedra": "KJFB", "miestnost": "F1 306"}
+,{"klapka": "656", "priezvisko": "Hašková", "email": "Alzbeta.Haskova@fmph.uniba.sk", "meno": "Alžbeta", "katedra": "KEC", "miestnost": "I 30"}
+,{"meno": "Ľubor", "miestnost": " ", "priezvisko": "Illek", "email": "Lubor.Illek@fmph.uniba.sk", "katedra": "KI"}
+,{"klapka": "545", "priezvisko": "Ištvánová", "email": "Milena.Istvanova@fmph.uniba.sk", "meno": "Milena", "katedra": "DEK", "miestnost": "F2 24"}
+,{"klapka": "642", "priezvisko": "Jajcay", "email": "Robert.Jajcay@fmph.uniba.sk", "meno": "Róbert", "katedra": "KAGDM", "miestnost": "M 144"}
+,{"klapka": "278", "priezvisko": "Jajcayová", "email": "Tatiana.Jajcayova@fmph.uniba.sk", "meno": "Tatiana", "katedra": "KAI", "miestnost": "I 24a"}
+,{"klapka": "541", "priezvisko": "Jakšová", "email": "Ivana.Jaksova@fmph.uniba.sk", "meno": "Ivana", "katedra": "KAFZM", "miestnost": "F2 207"}
+,{"klapka": "578", "priezvisko": "Janáček", "email": "Jaroslav.Janacek@fmph.uniba.sk", "meno": "Jaroslav", "katedra": "KI", "miestnost": "M 253"}
+,{"klapka": "577", "priezvisko": "Janáčková", "email": "Lubica.Janackova@fmph.uniba.sk", "meno": "Ľubica", "katedra": "KI", "miestnost": "M 253"}
+,{"klapka": "728", "priezvisko": "Kačur", "email": "Jozef.Kacur@fmph.uniba.sk", "meno": "Jozef", "katedra": "KMANM", "miestnost": "M 235"}
+,{"meno": "Gabriela", "miestnost": "F2", "priezvisko": "Kádárová", "email": "Gabriela.Kadarova@fmph.uniba.sk", "katedra": "DEK"}
+,{"klapka": "332", "priezvisko": "Kaderjáková", "email": "Zuzana.Kaderjakova@fmph.uniba.sk", "meno": "Zuzana", "katedra": "KJFB", "miestnost": "F1 323"}
+,{"klapka": "837", "priezvisko": "Labath", "email": "Pavel.Labath@fmph.uniba.sk", "meno": "Pavel", "katedra": "KI", "miestnost": "M 227"}
+,{"klapka": "581, 289", "priezvisko": "Lacko", "email": "Michal.Lacko@fmph.uniba.sk", "meno": "Michal", "katedra": "KEF", "miestnost": "F2 74"}
+,{"klapka": "459", "priezvisko": "Ládiová", "email": "Anna.Ladiova@fmph.uniba.sk", "meno": "Anna", "katedra": "KEC", "miestnost": "I 1"}
+,{"klapka": "525", "priezvisko": "Laginová", "email": "Eleonora.Laginova@fmph.uniba.sk", "meno": "Eleonóra", "katedra": "KJFB", "miestnost": "F1 376"}
+,{"klapka": "523", "priezvisko": "Lapin", "email": "Milan.Lapin@fmph.uniba.sk", "meno": "Milan", "katedra": "KAFZM", "miestnost": "F1 371"}
+,{"klapka": "220", "priezvisko": "Bezáková", "email": "Daniela.Bezakova@fmph.uniba.sk", "meno": "Daniela", "katedra": "KZVI", "miestnost": "I 12"}
+,{"klapka": "671", "priezvisko": "Biharyová", "email": "Jana.Biharyova@fmph.uniba.sk", "meno": "Jana", "katedra": "DEK", "miestnost": "F2 7"}
+,{"klapka": "783", "priezvisko": "Bírová", "email": "Radka.Birova@fmph.uniba.sk", "meno": "Radka", "katedra": "VC", "miestnost": "M 264"}
+,{"meno": "Denisa", "priezvisko": "Birvoňová", "email": "Denisa.Birvonova@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "442", "priezvisko": "Blaho", "email": "Andrej.Blaho@fmph.uniba.sk", "meno": "Andrej", "katedra": "KAI", "miestnost": "I 5"}
+,{"klapka": "425", "priezvisko": "Blahušiak", "email": "Pavol.Blahusiak@fmph.uniba.sk", "meno": "Pavol", "katedra": "KJFB", "miestnost": "F1 266"}
+,{"klapka": "724", "priezvisko": "Guba", "email": "Peter.Guba@fmph.uniba.sk", "meno": "Peter", "katedra": "KAMS", "miestnost": "M 269"}
+,{"klapka": "491", "priezvisko": "Gubiš", "email": "Daniel.Gubis@fmph.uniba.sk", "meno": "Daniel", "katedra": "DEK", "miestnost": "F2 10b"}
+,{"klapka": "845", "priezvisko": "Guller", "email": "Dusan.Guller@fmph.uniba.sk", "meno": "Dušan", "katedra": "KAI", "miestnost": "I 28"}
+,{"klapka": "193", "priezvisko": "Guričan", "email": "Jaroslav.Gurican@fmph.uniba.sk", "meno": "Jaroslav", "katedra": "KAGDM", "miestnost": "M 129"}
+,{"klapka": "842", "priezvisko": "Gurová", "email": "Milada.Gurova@fmph.uniba.sk", "meno": "Milada", "katedra": "VC", "miestnost": "M 169"}
+,{"klapka": "436", "priezvisko": "Gyárfáš", "email": "Frantisek.Gyarfas@fmph.uniba.sk", "meno": "František", "katedra": "KAI", "miestnost": "I 17"}
+,{"klapka": "406", "priezvisko": "Haverlík", "email": "Ivan.Haverlik@fmph.uniba.sk", "meno": "Ivan", "katedra": "KJFB", "miestnost": "F2 138"}
+,{"klapka": "836", "priezvisko": "Haviarová", "email": "Lucia.Haviarova@fmph.uniba.sk", "meno": "Lucia", "katedra": "KI", "miestnost": "M 101"}
+,{"meno": "Jana", "miestnost": "M 133", "priezvisko": "Havlíčková", "email": "Jana.Havlickova@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "515", "priezvisko": "Hegedüsová", "email": "Monika.Hegedusova@fmph.uniba.sk", "meno": "Monika", "katedra": "KAI", "miestnost": "I 41"}
+,{"meno": "Petr", "priezvisko": "Heinzel", "email": "Petr.Heinzel@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "676", "priezvisko": "Hensel", "email": "Karol.Hensel@fmph.uniba.sk", "meno": "Karol", "katedra": "KAFZM", "miestnost": "F2 39"}
+,{"klapka": "581", "priezvisko": "Hergelová", "email": "Beata.Hergelova@fmph.uniba.sk", "meno": "Beáta", "katedra": "KEF", "miestnost": "F2 74"}
+,{"meno": "Peter", "miestnost": "F1 148", "priezvisko": "Jančár", "email": "Peter.Jancar@fmph.uniba.sk", "katedra": "KEF"}
+,{"klapka": "385", "priezvisko": "Janda", "email": "Mario.Janda@fmph.uniba.sk", "meno": "Mário", "katedra": "KAFZM", "miestnost": "F2 70"}
+,{"klapka": "719", "priezvisko": "Janková", "email": "Katarina.Jankova@fmph.uniba.sk", "meno": "Katarína", "katedra": "KAMS", "miestnost": "M 241"}
+,{"klapka": "204", "priezvisko": "Jaroš", "email": "Frantisek.Jaros@fmph.uniba.sk", "meno": "František", "katedra": "KMANM", "miestnost": "M 174"}
+,{"klapka": "203", "priezvisko": "Jaroš", "email": "Jaroslav.Jaros@fmph.uniba.sk", "meno": "Jaroslav", "katedra": "KMANM", "miestnost": "M 170"}
+,{"klapka": "517", "priezvisko": "Jaroševič", "email": "Andrej.Jarosevic@fmph.uniba.sk", "meno": "Andrej", "katedra": "KEF", "miestnost": "F2 252"}
+,{"klapka": "652", "priezvisko": "Kaizer", "email": "Jakub.Kaizer@fmph.uniba.sk", "meno": "Jakub", "katedra": "KJFB", "miestnost": "F1 272"}
+,{"klapka": "451", "priezvisko": "Kalaninová", "email": "Zdenka.Kalaninova@fmph.uniba.sk", "meno": "Zdenka", "katedra": "KJFB", "miestnost": "F1 257"}
+,{"klapka": "639", "priezvisko": "Kalaš", "email": "Ivan.Kalas@fmph.uniba.sk", "meno": "Ivan", "katedra": "KZVI", "miestnost": "I 26"}
+,{"meno": "Dušan", "miestnost": "AGO ", "priezvisko": "Kalmančok", "email": "Dusan.Kalmancok@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "109", "priezvisko": "Kamhal", "email": "Dezider.Kamhal@fmph.uniba.sk", "meno": "Dezider", "katedra": "KAI", "miestnost": "I 36"}
+,{"klapka": "754", "priezvisko": "Kamrlová", "email": "Barbora.Kamrlova@fmph.uniba.sk", "meno": "Barbora", "katedra": "KAGDM", "miestnost": "M 134"}
+,{"meno": "Ivana", "miestnost": "F1 342", "priezvisko": "Karpišová", "email": "Ivana.Karpisova@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "325", "priezvisko": "Lapitková", "email": "Viera.Lapitkova@fmph.uniba.sk", "meno": "Viera", "katedra": "KTFDF", "miestnost": "F1 157"}
+,{"meno": "Vladimíra", "priezvisko": "Laššáková", "email": "Vladimira.Lassakova@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "803", "priezvisko": "Leginusová", "email": "Jana.Leginusova@fmph.uniba.sk", "meno": "Jana", "katedra": "KTVS", "miestnost": "SG 1"}
+,{"klapka": "248", "priezvisko": "Lépeš", "email": "Ivan.Lepes@fmph.uniba.sk", "meno": "Ivan", "katedra": "SB", "miestnost": "F2 -104"}
+,{"klapka": "512", "priezvisko": "Leporis", "email": "Marek.Leporis@fmph.uniba.sk", "meno": "Marek", "katedra": "KEF", "miestnost": "F2 247"}
+,{"klapka": "199", "priezvisko": "Leštách", "email": "Milos.Lestach@fmph.uniba.sk", "meno": "Miloš", "katedra": "VL", "miestnost": "D 235"}
+,{"klapka": "385", "priezvisko": "Leštinský", "email": "Michal.Lestinsky@fmph.uniba.sk", "meno": "Michal", "katedra": "KAFZM", "miestnost": "F2 70"}
+,{"klapka": "258", "priezvisko": "Macková", "email": "Anna.Mackova@fmph.uniba.sk", "meno": "Anna", "katedra": "DEK", "miestnost": "F2 24"}
+,{"klapka": "773", "priezvisko": "Mackovjak", "email": "Simon.Mackovjak@fmph.uniba.sk", "meno": "Šimon", "katedra": "KAFZM", "miestnost": "F2 202"}
+,{"klapka": "387", "priezvisko": "Mačaj", "email": "Martin.Macaj@fmph.uniba.sk", "meno": "Martin", "katedra": "KAGDM", "miestnost": "M 132"}
+,{"klapka": "625", "priezvisko": "Nagy", "email": "Marek.Nagy@fmph.uniba.sk", "meno": "Marek", "katedra": "KAI", "miestnost": "I 42"}
+,{"klapka": "287", "priezvisko": "Nagy", "email": "Roman.Nagy@fmph.uniba.sk", "meno": "Roman", "katedra": "KAFZM", "miestnost": "F1 338"}
+,{"klapka": "196", "priezvisko": "Nánási", "email": "Michal.Nanasi@fmph.uniba.sk", "meno": "Michal", "katedra": "KI", "miestnost": "M 25"}
+,{"klapka": "136", "priezvisko": "Náther", "email": "Ondrej.Nather@fmph.uniba.sk", "meno": "Ondrej", "katedra": "KAMS", "miestnost": "M 247"}
+,{"klapka": "762, 663", "priezvisko": "Blažek", "email": "Tomas.Blazek@fmph.uniba.sk", "meno": "Tomáš", "katedra": "KTFDF", "miestnost": "F2 146"}
+,{"klapka": "411", "priezvisko": "Boďa", "email": "Eduard.Boda@fmph.uniba.sk", "meno": "Eduard", "katedra": "KAGDM", "miestnost": "M 155"}
+,{"klapka": "633", "priezvisko": "Boďa", "email": "Jan.Boda@fmph.uniba.sk", "meno": "Ján", "katedra": "KAMS", "miestnost": "M 233"}
+,{"klapka": "584", "priezvisko": "Bogár", "email": "Ondrej.Bogar@fmph.uniba.sk", "meno": "Ondrej", "katedra": "KEF", "miestnost": "F2 81"}
+,{"klapka": "185", "priezvisko": "Bohdal", "email": "Robert.Bohdal@fmph.uniba.sk", "meno": "Róbert", "katedra": "KAGDM", "miestnost": "M 114"}
+,{"klapka": "771", "priezvisko": "Böhm", "email": "Radoslav.Bohm@fmph.uniba.sk", "meno": "Radoslav", "katedra": "KJFB", "miestnost": "F1 249"}
+,{"klapka": "180", "priezvisko": "Bokes", "email": "Pavol.Bokes@fmph.uniba.sk", "meno": "Pavol", "katedra": "KAMS", "miestnost": "M 206"}
+,{"klapka": "176", "priezvisko": "Herman", "email": "Frantisek.Herman@fmph.uniba.sk", "meno": "František", "katedra": "KTFDF", "miestnost": "F2 132"}
+,{"klapka": "683", "priezvisko": "Hianik", "email": "Tibor.Hianik@fmph.uniba.sk", "meno": "Tibor", "katedra": "KJFB", "miestnost": "F1 346"}
+,{"klapka": "573", "priezvisko": "Hlinová", "email": "Ludmila.Hlinova@fmph.uniba.sk", "meno": "Ľudmila", "katedra": "KAI", "miestnost": "I 38"}
+,{"klapka": "321, 264", "priezvisko": "Hlubina", "email": "Richard.Hlubina@fmph.uniba.sk", "meno": "Richard", "katedra": "KEF", "miestnost": "F2 247"}
+,{"klapka": "285", "priezvisko": "Hodosyová", "email": "Martina.Hodosyova@fmph.uniba.sk", "meno": "Martina", "katedra": "KTFDF", "miestnost": "F1 250"}
+,{"klapka": "184", "priezvisko": "Holecyová", "email": "Maria.Holecyova@fmph.uniba.sk", "meno": "Mária", "katedra": "KAMS", "miestnost": "M 204"}
+,{"meno": "Marián", "priezvisko": "Holienka", "email": "Marian.Holienka@fmph.uniba.sk", "katedra": "KAI"}
+,{"klapka": "396", "priezvisko": "Jašková", "email": "Ludmila.Jaskova@fmph.uniba.sk", "meno": "Ľudmila", "katedra": "KZVI", "miestnost": "I 13"}
+,{"klapka": "254", "priezvisko": "Jedináková", "email": "Julia.Jedinakova@fmph.uniba.sk", "meno": "Júlia", "katedra": "KJP", "miestnost": "F2 287"}
+,{"klapka": "652", "priezvisko": "Ješkovský", "email": "Miroslav.Jeskovsky@fmph.uniba.sk", "meno": "Miroslav", "katedra": "KJFB", "miestnost": "F1 272"}
+,{"meno": "Marián", "miestnost": "SHMÚ ", "priezvisko": "Jurašek", "email": "Marian.Jurasek@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "260", "priezvisko": "Jurča", "email": "Pavol.Jurca@fmph.uniba.sk", "meno": "Pavol", "katedra": "KAMS", "miestnost": "M 266"}
+,{"klapka": "630", "priezvisko": "Jurči", "email": "Milan.Jurci@fmph.uniba.sk", "meno": "Milan", "katedra": "KAFZM", "miestnost": "F2 203"}
+,{"klapka": "135", "priezvisko": "Katina", "email": "Stanislav.Katina@fmph.uniba.sk", "meno": "Stanislav", "katedra": "KAMS", "miestnost": "M 245"}
+,{"klapka": "838", "priezvisko": "Katreniaková", "email": "Jana.Katreniakova@fmph.uniba.sk", "meno": "Jana", "katedra": "KI", "miestnost": "M 263"}
+,{"klapka": "753", "priezvisko": "Katriňák", "email": "Tibor.Katrinak@fmph.uniba.sk", "meno": "Tibor", "katedra": "KAGDM", "miestnost": "M 137"}
+,{"klapka": "758", "priezvisko": "Kazdová", "email": "Milada.Kazdova@fmph.uniba.sk", "meno": "Milada", "katedra": "KMANM", "miestnost": "M 106"}
+,{"klapka": "761", "priezvisko": "Kilián", "email": "Ondrej.Kilian@fmph.uniba.sk", "meno": "Ondrej", "katedra": "KAFZM", "miestnost": "F2 68"}
+,{"klapka": "134", "priezvisko": "Kilianová", "email": "Sona.Kilianova@fmph.uniba.sk", "meno": "Soňa", "katedra": "KAMS", "miestnost": "M 267"}
+,{"klapka": "684, 630", "priezvisko": "Klačka", "email": "Jozef.Klacka@fmph.uniba.sk", "meno": "Jozef", "katedra": "KAFZM", "miestnost": "F2 206"}
+,{"klapka": "854", "priezvisko": "Letková", "email": "Angela.Letkova@fmph.uniba.sk", "meno": "Angela", "katedra": "DEK", "miestnost": "F2 8"}
+,{"klapka": "177", "priezvisko": "Lettrichová", "email": "Ivana.Lettrichova@fmph.uniba.sk", "meno": "Ivana", "katedra": "KAFZM", "miestnost": "F2 -210"}
+,{"klapka": "653", "priezvisko": "Lietava", "email": "Roman.Lietava@fmph.uniba.sk", "meno": "Roman", "katedra": "KTFDF", "miestnost": "F2 135"}
+,{"meno": "Zuzana", "miestnost": "F2 56", "priezvisko": "Lichvanová", "email": "Zuzana.Lichvanova@fmph.uniba.sk", "katedra": "KEF"}
+,{"meno": "Milan", "miestnost": "F2 173", "priezvisko": "Luc", "email": "Milan.Luc@fmph.uniba.sk", "katedra": "CITUK"}
+,{"klapka": "374", "priezvisko": "Lúčan", "email": "Lubomir.Lucan@fmph.uniba.sk", "meno": "Ľubomír", "katedra": "KAI", "miestnost": "I 33a"}
+,{"klapka": "436", "priezvisko": "Lúčny", "email": "Andrej.Lucny@fmph.uniba.sk", "meno": "Andrej", "katedra": "KAI", "miestnost": "I 18"}
+,{"klapka": "470", "priezvisko": "Mačajová", "email": "Edita.Macajova@fmph.uniba.sk", "meno": "Edita", "katedra": "KI", "miestnost": "M 261"}
+,{"klapka": "717", "priezvisko": "Mačutek", "email": "Jan.Macutek@fmph.uniba.sk", "meno": "Ján", "katedra": "KAMS", "miestnost": "M 246"}
+,{"klapka": "464, 528", "priezvisko": "Maheľ", "email": "Michal.Mahel@fmph.uniba.sk", "meno": "Michal", "katedra": "KEF", "miestnost": "F2 244"}
+,{"klapka": "682", "priezvisko": "Mach", "email": "Pavel.Mach@fmph.uniba.sk", "meno": "Pavel", "katedra": "KJFB", "miestnost": "F1 345"}
+,{"klapka": "618", "priezvisko": "Machala", "email": "Zdenko.Machala@fmph.uniba.sk", "meno": "Zdenko", "katedra": "KAFZM", "miestnost": "F2 88"}
+,{"meno": "Dušan", "priezvisko": "Majcin", "email": "Dusan.Majcin@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "443", "priezvisko": "Náther", "email": "Peter.Nather@fmph.uniba.sk", "meno": "Peter", "katedra": "KAI", "miestnost": "I 6"}
+,{"klapka": "247", "priezvisko": "Neilinger", "email": "Pavol.Neilinger@fmph.uniba.sk", "meno": "Pavol", "katedra": "KEF", "miestnost": "F2 232"}
+,{"meno": "Peter", "priezvisko": "Neurath", "email": "Peter.Neurath@fmph.uniba.sk", "katedra": "KI"}
+,{"klapka": "759", "priezvisko": "Niepel", "email": "Martin.Niepel@fmph.uniba.sk", "meno": "Martin", "katedra": "KAGDM", "miestnost": "M 131"}
+,{"meno": "Monika", "miestnost": "F2 169", "priezvisko": "Nikodemová", "email": "Monika.Nikodemova@fmph.uniba.sk", "katedra": "CITUK"}
+,{"klapka": "116", "priezvisko": "Noga", "email": "Milan.Noga@fmph.uniba.sk", "meno": "Milan", "katedra": "KTFDF", "miestnost": "F2 141"}
+,{"klapka": "634", "priezvisko": "Novotný", "email": "Peter.Novotny@fmph.uniba.sk", "meno": "Peter", "katedra": "KMANM", "miestnost": "M 226"}
+,{"klapka": "611", "priezvisko": "Odnechtová", "email": "Renata.Odnechtova@fmph.uniba.sk", "meno": "Renáta", "katedra": "KZVI", "miestnost": "I 27"}
+,{"klapka": "851", "priezvisko": "Odrobina", "email": "Igor.Odrobina@fmph.uniba.sk", "meno": "Igor", "katedra": "KAMS", "miestnost": "M 265"}
+,{"klapka": "101", "priezvisko": "Olejár", "email": "Daniel.Olejar@fmph.uniba.sk", "meno": "Daniel", "katedra": "KI", "miestnost": "M 214"}
+,{"klapka": "469", "priezvisko": "Ondrášková", "email": "Adriena.Ondraskova@fmph.uniba.sk", "meno": "Adriena", "katedra": "KAFZM", "miestnost": "F1 160"}
+,{"klapka": "398", "priezvisko": "Országh", "email": "Juraj.Orszagh@fmph.uniba.sk", "meno": "Juraj", "katedra": "KEF", "miestnost": "F2 77"}
+,{"klapka": "134", "priezvisko": "Pačuta", "email": "Julius.Pacuta@fmph.uniba.sk", "meno": "Július", "katedra": "KAMS", "miestnost": "M 276"}
+,{"meno": "Gustáv", "miestnost": "F2 169", "priezvisko": "Pálos", "email": "Gustav.Palos@fmph.uniba.sk", "katedra": "CITUK"}
+,{"klapka": "227", "priezvisko": "Pánek", "email": "Radomir.Panek@fmph.uniba.sk", "meno": "Radomír", "katedra": "KEF", "miestnost": "F2 52"}
+,{"meno": "Ján", "miestnost": "F2 140", "priezvisko": "Pánik", "email": "Jan.Panik@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "459", "priezvisko": "Bokesová", "email": "Klaudia.Bokesova@fmph.uniba.sk", "meno": "Klaudia", "katedra": "KEC", "miestnost": "I 1"}
+,{"klapka": "659", "priezvisko": "Bóna", "email": "Pavel.Bona@fmph.uniba.sk", "meno": "Pavel", "katedra": "KTFDF", "miestnost": "F2 103a"}
+,{"klapka": "436", "priezvisko": "Borovanský", "email": "Peter.Borovansky@fmph.uniba.sk", "meno": "Peter", "katedra": "KAI", "miestnost": "I 18"}
+,{"meno": "Michal", "miestnost": "F2 173", "priezvisko": "Boška", "email": "Michal.Boska@fmph.uniba.sk", "katedra": "CITUK"}
+,{"meno": "Vladimír", "miestnost": "M 25", "priezvisko": "Boža", "email": "Vladimir.Boza@fmph.uniba.sk", "katedra": "KAI"}
+,{"klapka": "209", "priezvisko": "Božek", "email": "Milos.Bozek@fmph.uniba.sk", "meno": "Miloš", "katedra": "KAGDM", "miestnost": "M 156"}
+,{"klapka": "455", "priezvisko": "Breier", "email": "Robert.Breier@fmph.uniba.sk", "meno": "Róbert", "katedra": "KJFB", "miestnost": "F1 373"}
+,{"klapka": "526", "priezvisko": "Holý", "email": "Karol.Holy@fmph.uniba.sk", "meno": "Karol", "katedra": "KJFB", "miestnost": "F1 264"}
+,{"klapka": "444", "priezvisko": "Homola", "email": "Martin.Homola@fmph.uniba.sk", "meno": "Martin", "katedra": "KAI", "miestnost": "I 7"}
+,{"klapka": "497", "priezvisko": "Horňáčková", "email": "Michaela.Hornackova@fmph.uniba.sk", "meno": "Michaela", "katedra": "KEF", "miestnost": "F2 42"}
+,{"klapka": "326", "priezvisko": "Horváth", "email": "Peter.Horvath@fmph.uniba.sk", "meno": "Peter", "katedra": "KTFDF", "miestnost": "F1 158"}
+,{"klapka": "326", "priezvisko": "Horváthová", "email": "Martina.Horvathova@fmph.uniba.sk", "meno": "Martina", "katedra": "KTFDF", "miestnost": "F1 158"}
+,{"klapka": "761", "priezvisko": "Hovorka", "email": "Juraj.Hovorka@fmph.uniba.sk", "meno": "Juraj", "katedra": "KEF", "miestnost": "F2 74"}
+,{"klapka": "293", "priezvisko": "Klas", "email": "Matej.Klas@fmph.uniba.sk", "meno": "Matej", "katedra": "KEF", "miestnost": "F2 84"}
+,{"klapka": "726", "priezvisko": "Klátiková", "email": "Elena.Klatikova@fmph.uniba.sk", "meno": "Elena", "katedra": "KJP", "miestnost": "F1 325"}
+,{"klapka": "727", "priezvisko": "Kľuka", "email": "Jan.Kluka@fmph.uniba.sk", "meno": "Ján", "katedra": "KAI", "miestnost": "I 16"}
+,{"klapka": "212", "priezvisko": "Kmetek", "email": "Patrik.Kmetek@fmph.uniba.sk", "meno": "Patrik", "katedra": "DEK", "miestnost": "F1 120"}
+,{"klapka": "257", "priezvisko": "Kmeteková", "email": "Milada.Kmetekova@fmph.uniba.sk", "meno": "Milada", "katedra": "DEK", "miestnost": "F2 91"}
+,{"klapka": "368", "priezvisko": "Kociánová", "email": "Maria.Kocianova@fmph.uniba.sk", "meno": "Mária", "katedra": "KEF", "miestnost": "F2 155"}
+,{"klapka": "688", "priezvisko": "Kocifaj", "email": "Miroslav.Kocifaj@fmph.uniba.sk", "meno": "Miroslav", "katedra": "KEF", "miestnost": "F2 251"}
+,{"klapka": "404, 856", "priezvisko": "Lukáč", "email": "Peter.Lukac@fmph.uniba.sk", "meno": "Peter", "katedra": "KEF", "miestnost": "F2 46"}
+,{"klapka": "723", "priezvisko": "Luptáčik", "email": "Mikulas.Luptacik@fmph.uniba.sk", "meno": "Mikuláš", "katedra": "KAMS", "miestnost": "M 268"}
+,{"meno": "Ľudovít", "miestnost": "I 11", "priezvisko": "Malinovský", "email": "Ludovit.Malinovsky@fmph.uniba.sk", "katedra": "KAI"}
+,{"klapka": "869", "priezvisko": "Markošová", "email": "Maria.Markosova@fmph.uniba.sk", "meno": "Mária", "katedra": "KAI", "miestnost": "I 34"}
+,{"klapka": "555", "priezvisko": "Martincová", "email": "Iveta.Martincova@fmph.uniba.sk", "meno": "Iveta", "katedra": "DEK", "miestnost": "F2 80"}
+,{"klapka": "399", "priezvisko": "Martišovitš", "email": "Viktor.Martisovits@fmph.uniba.sk", "meno": "Viktor", "katedra": "KAFZM", "miestnost": "F2 49"}
+,{"klapka": "467", "priezvisko": "Martoňák", "email": "Roman.Martonak@fmph.uniba.sk", "meno": "Roman", "katedra": "KEF", "miestnost": "F2 240"}
+,{"meno": "Ondrej", "miestnost": "M 125", "priezvisko": "Marušiak", "email": "Ondrej.Marusiak@fmph.uniba.sk", "katedra": "KAMS"}
+,{"meno": "Mikuláš", "priezvisko": "Ortutay", "email": "Mikulas.Ortutay@fmph.uniba.sk", "katedra": "KTVS"}
+,{"klapka": "288", "priezvisko": "Ostatná", "email": "Veronika.Ostatna@fmph.uniba.sk", "meno": "Veronika", "katedra": "KJFB", "miestnost": "F1 347"}
+,{"meno": "Daniela", "priezvisko": "Ostatníková", "email": "Daniela.Ostatnikova@fmph.uniba.sk", "katedra": "KAI"}
+,{"klapka": "169", "priezvisko": "Ostertág", "email": "Richard.Ostertag@fmph.uniba.sk", "meno": "Richard", "katedra": "KI", "miestnost": "M 252"}
+,{"klapka": "403", "priezvisko": "Otčenáš", "email": "Peter.Otcenas@fmph.uniba.sk", "meno": "Peter", "katedra": "KMANM", "miestnost": "M 225"}
+,{"klapka": "398", "priezvisko": "Papp", "email": "Peter.Papp@fmph.uniba.sk", "meno": "Peter", "katedra": "KEF", "miestnost": "F2 77"}
+,{"klapka": "958", "priezvisko": "Pardubská", "email": "Dana.Pardubska@fmph.uniba.sk", "meno": "Dana", "katedra": "KI", "miestnost": "M 250"}
+,{"klapka": "152", "priezvisko": "Parolková", "email": "Olga.Parolkova@fmph.uniba.sk", "meno": "Oľga", "katedra": "DEK", "miestnost": "M 7"}
+,{"klapka": "475", "priezvisko": "Pastor", "email": "Karol.Pastor@fmph.uniba.sk", "meno": "Karol", "katedra": "KAMS", "miestnost": "M 243"}
+,{"klapka": "224", "priezvisko": "Pastorová", "email": "Maria.Pastorova@fmph.uniba.sk", "meno": "Mária", "katedra": "KI", "miestnost": "M 255"}
+,{"klapka": "471", "priezvisko": "Pataky", "email": "Mikulas.Pataky@fmph.uniba.sk", "meno": "Mikuláš", "katedra": "KAI", "miestnost": "M 161"}
+,{"meno": "Róbert", "miestnost": "M 125", "priezvisko": "Patejdl", "email": "Robert.Patejdl@fmph.uniba.sk", "katedra": "KAMS"}
+,{"klapka": "670", "priezvisko": "Quittner", "email": "Pavol.Quittner@fmph.uniba.sk", "meno": "Pavol", "katedra": "KAMS", "miestnost": "M 275"}
+,{"klapka": "370", "priezvisko": "Takáč", "email": "Martin.Takac@fmph.uniba.sk", "meno": "Martin", "katedra": "KAI", "miestnost": "I 37"}
+,{"klapka": "492", "priezvisko": "Tarabová", "email": "Barbora.Tarabova@fmph.uniba.sk", "meno": "Barbora", "katedra": "KJFB", "miestnost": "F1 307"}
+,{"klapka": "320", "priezvisko": "Taubnerová", "email": "Alexandra.Taubnerova@fmph.uniba.sk", "meno": "Alexandra", "katedra": "DEK", "miestnost": "F2 4"}
+,{"klapka": "653", "priezvisko": "Tekel", "email": "Juraj.Tekel@fmph.uniba.sk", "meno": "Juraj", "katedra": "KTFDF", "miestnost": "F2 136"}
+,{"klapka": "120", "priezvisko": "Tirpák", "email": "Andrej.Tirpak@fmph.uniba.sk", "meno": "Andrej", "katedra": "KEF", "miestnost": "F2 241"}
+,{"klapka": "619", "priezvisko": "Račanová", "email": "Elvira.Racanova@fmph.uniba.sk", "meno": "Elvíra", "katedra": "DEK", "miestnost": "F2 10"}
+,{"klapka": "329", "priezvisko": "Rampášeková", "email": "Klara.Rampasekova@fmph.uniba.sk", "meno": "Klára", "katedra": "KAFZM", "miestnost": "F1 163"}
+,{"klapka": "490", "priezvisko": "Regecová", "email": "Michaela.Regecova@fmph.uniba.sk", "meno": "Michaela", "katedra": "KAGDM", "miestnost": "M 147"}
+,{"klapka": "247", "priezvisko": "Rehák", "email": "Matus.Rehak@fmph.uniba.sk", "meno": "Matúš", "katedra": "KEF", "miestnost": "F2 232"}
+,{"klapka": "233", "priezvisko": "Rehuš", "email": "Silvester.Rehus@fmph.uniba.sk", "meno": "Silvester", "katedra": "KAFZM", "miestnost": "F2 260"}
+,{"klapka": "447", "priezvisko": "Sabo", "email": "Martin.Sabo@fmph.uniba.sk", "meno": "Martin", "katedra": "KEF", "miestnost": "F2 45"}
+,{"klapka": "284", "priezvisko": "Salanci", "email": "Lubomir.Salanci@fmph.uniba.sk", "meno": "Ľubomír", "katedra": "KZVI", "miestnost": "I 44"}
+,{"klapka": "441", "priezvisko": "Samuelčík", "email": "Martin.Samuelcik@fmph.uniba.sk", "meno": "Martin", "katedra": "KAI", "miestnost": "I 4"}
+,{"klapka": "242, 511", "priezvisko": "Sandanusová", "email": "Martina.Sandanusova@fmph.uniba.sk", "meno": "Martina", "katedra": "CPP", "miestnost": "F1 117"}
+,{"klapka": "163", "priezvisko": "Šedivý", "email": "Miroslav.Sedivy@fmph.uniba.sk", "meno": "Miroslav", "katedra": "CPP", "miestnost": "F1 321"}
+,{"klapka": "389", "priezvisko": "Šefránek", "email": "Jan.Sefranek@fmph.uniba.sk", "meno": "Ján", "katedra": "KAI", "miestnost": "I 17"}
+,{"klapka": "328", "priezvisko": "Ševčík", "email": "Sebastian.Sevcik@fmph.uniba.sk", "meno": "Sebastián", "katedra": "KAFZM", "miestnost": "F1 161"}
+,{"klapka": "660", "priezvisko": "Ševčovič", "email": "Daniel.Sevcovic@fmph.uniba.sk", "meno": "Daniel", "katedra": "KAMS", "miestnost": "M 274"}
+,{"klapka": "217", "priezvisko": "Brejová", "email": "Bronislava.Brejova@fmph.uniba.sk", "meno": "Bronislava", "katedra": "KI", "miestnost": "M 163"}
+,{"meno": "Lívia", "miestnost": "F1 264", "priezvisko": "Bresťáková", "email": "Livia.Brestakova@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "673", "priezvisko": "Brestenský", "email": "Jozef.Brestensky@fmph.uniba.sk", "meno": "Jozef", "katedra": "KAFZM", "miestnost": "F1 162"}
+,{"meno": "Ladislav", "priezvisko": "Brimich", "email": "Ladislav.Brimich@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "191", "priezvisko": "Brndiarová", "email": "Lenka.Brndiarova@fmph.uniba.sk", "meno": "Lenka", "katedra": "KEC", "miestnost": "I -1"}
+,{"klapka": "197", "priezvisko": "Brunovský", "email": "Pavel.Brunovsky@fmph.uniba.sk", "meno": "Pavel", "katedra": "KAMS", "miestnost": "M 271"}
+,{"klapka": "616, 440", "priezvisko": "Buček", "email": "Andrej.Bucek@fmph.uniba.sk", "meno": "Andrej", "katedra": "KEF", "miestnost": "F2 37"}
+,{"klapka": "265", "priezvisko": "Hreha", "email": "Jan.Hreha@fmph.uniba.sk", "meno": "Ján", "katedra": "KEF", "miestnost": "F2 276"}
+,{"klapka": "715", "priezvisko": "Hrušecká", "email": "Andrea.Hrusecka@fmph.uniba.sk", "meno": "Andrea", "katedra": "KZVI", "miestnost": "I 45"}
+,{"klapka": "715", "priezvisko": "Hrušecký", "email": "Roman.Hrusecky@fmph.uniba.sk", "meno": "Roman", "katedra": "KZVI", "miestnost": "I 45"}
+,{"klapka": "107", "priezvisko": "Hrvoľ", "email": "Jan.Hrvol@fmph.uniba.sk", "meno": "Ján", "katedra": "KAFZM", "miestnost": "F2 256"}
+,{"klapka": "681", "priezvisko": "Hubač", "email": "Ivan.Hubac@fmph.uniba.sk", "meno": "Ivan", "katedra": "KJFB", "miestnost": "F1 348"}
+,{"klapka": "133", "priezvisko": "Hudák", "email": "Matej.Hudak@fmph.uniba.sk", "meno": "Matej", "katedra": "KAI", "miestnost": "M 162"}
+,{"klapka": "761", "priezvisko": "Hulík", "email": "Jakub.Hulik@fmph.uniba.sk", "meno": "Jakub", "katedra": "KEF", "miestnost": "F2 68"}
+,{"klapka": "254", "priezvisko": "Kočvarová", "email": "Jana.Kocvarova@fmph.uniba.sk", "meno": "Jana", "katedra": "KJP", "miestnost": "F2 287"}
+,{"klapka": "883", "priezvisko": "Kohanová", "email": "Iveta.Kohanova@fmph.uniba.sk", "meno": "Iveta", "katedra": "KAGDM", "miestnost": "M 147"}
+,{"klapka": "478", "priezvisko": "Kohútová", "email": "Adriana.Kohutova@fmph.uniba.sk", "meno": "Adriana", "katedra": "DEK", "miestnost": "F2 3"}
+,{"klapka": "460", "priezvisko": "Kochan", "email": "Denis.Kochan@fmph.uniba.sk", "meno": "Denis", "katedra": "KTFDF", "miestnost": "F2 145"}
+,{"meno": "Peter", "miestnost": "AGO ", "priezvisko": "Kolény", "email": "Peter.Koleny@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"meno": "Jakub", "miestnost": "F1 347", "priezvisko": "Kollár", "email": "Jakub.Kollar@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "260", "priezvisko": "Kollár", "email": "Martin.Kollar@fmph.uniba.sk", "meno": "Martin", "katedra": "KAMS", "miestnost": "M 266"}
+,{"klapka": "394", "priezvisko": "Masár", "email": "Eduard.Masar@fmph.uniba.sk", "meno": "Eduard", "katedra": "KTFDF", "miestnost": "F2 134"}
+,{"klapka": "456", "priezvisko": "Masarik", "email": "Jozef.Masarik@fmph.uniba.sk", "meno": "Jozef", "katedra": "KJFB", "miestnost": "F1 374"}
+,{"klapka": "803", "priezvisko": "Mašlejová", "email": "Dana.Maslejova@fmph.uniba.sk", "meno": "Dana", "katedra": "KTVS", "miestnost": "SG 1"}
+,{"klapka": "460", "priezvisko": "Maták", "email": "Peter.Matak@fmph.uniba.sk", "meno": "Peter", "katedra": "KTFDF", "miestnost": "F2 145"}
+,{"klapka": "233", "priezvisko": "Matava", "email": "Milan.Matava@fmph.uniba.sk", "meno": "Milan", "katedra": "KAFZM", "miestnost": "F2 260"}
+,{"klapka": "686", "priezvisko": "Matejčík", "email": "Stefan.Matejcik@fmph.uniba.sk", "meno": "Štefan", "katedra": "KEF", "miestnost": "F2 53"}
+,{"klapka": "227", "priezvisko": "Matejčíková", "email": "Katarina.Matejcikova@fmph.uniba.sk", "meno": "Katarína", "katedra": "KEF", "miestnost": "F2 81"}
+,{"klapka": "194", "priezvisko": "Patríková", "email": "Helena.Patrikova@fmph.uniba.sk", "meno": "Helena", "katedra": "DEK", "miestnost": "F2 92"}
+,{"klapka": "287", "priezvisko": "Paučo", "email": "Radoslav.Pauco@fmph.uniba.sk", "meno": "Radoslav", "katedra": "KAFZM", "miestnost": "F1 338"}
+,{"klapka": "772", "priezvisko": "Pázman", "email": "Andrej.Pazman@fmph.uniba.sk", "meno": "Andrej", "katedra": "KAMS", "miestnost": "M 244"}
+,{"klapka": "402", "priezvisko": "Pažická", "email": "Adriana.Pazicka@fmph.uniba.sk", "meno": "Adriana", "katedra": "KI", "miestnost": "M 254"}
+,{"klapka": "635", "priezvisko": "Pekár", "email": "Jan.Pekar@fmph.uniba.sk", "meno": "Ján", "katedra": "KAMS", "miestnost": "M 237"}
+,{"meno": "Michal", "miestnost": "F1 350", "priezvisko": "Pelach", "email": "Michal.Pelach@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "407", "priezvisko": "Tokár", "email": "Stanislav.Tokar@fmph.uniba.sk", "meno": "Stanislav", "katedra": "KJFB", "miestnost": "F1 375"}
+,{"klapka": "472", "priezvisko": "Toma", "email": "Vladimir.Toma@fmph.uniba.sk", "meno": "Vladimír", "katedra": "KMANM", "miestnost": "M 166"}
+,{"klapka": "137", "priezvisko": "Toman", "email": "Eduard.Toman@fmph.uniba.sk", "meno": "Eduard", "katedra": "KI", "miestnost": "M 251"}
+,{"klapka": "344", "priezvisko": "Tomanová", "email": "Jana.Tomanova@fmph.uniba.sk", "meno": "Jana", "katedra": "KAGDM", "miestnost": "M 138"}
+,{"klapka": "253", "priezvisko": "Tomcsányi", "email": "Peter.Tomcsanyi@fmph.uniba.sk", "meno": "Peter", "katedra": "KZVI", "miestnost": "I 21"}
+,{"klapka": "220", "priezvisko": "Tomcsányiová", "email": "Monika.Tomcsanyiova@fmph.uniba.sk", "meno": "Monika", "katedra": "KZVI", "miestnost": "I 12"}
+,{"klapka": "108", "priezvisko": "Tomlain", "email": "Jan.Tomlain@fmph.uniba.sk", "meno": "Ján", "katedra": "KAFZM", "miestnost": "F2 257"}
+,{"klapka": "584", "priezvisko": "Ribar", "email": "Anita.Ribar@fmph.uniba.sk", "meno": "Anita", "katedra": "KEF", "miestnost": "F2 81"}
+,{"klapka": "652", "priezvisko": "Richtáriková", "email": "Marta.Richtarikova@fmph.uniba.sk", "meno": "Marta", "katedra": "KJFB", "miestnost": "F1 272"}
+,{"meno": "Lukáš", "miestnost": "F2 169", "priezvisko": "Riško", "email": "Lukas.Risko@fmph.uniba.sk", "katedra": "CITUK"}
+,{"klapka": "169", "priezvisko": "Rjaško", "email": "Michal.Rjasko@fmph.uniba.sk", "meno": "Michal", "katedra": "KI", "miestnost": "M 252"}
+,{"klapka": "270, 189", "priezvisko": "Roch", "email": "Tomas.Roch@fmph.uniba.sk", "meno": "Tomáš", "katedra": "KEF", "miestnost": "F2 P5"}
+,{"klapka": "858", "priezvisko": "Rostás", "email": "Kristina.Rostas@fmph.uniba.sk", "meno": "Kristína", "katedra": "KMANM", "miestnost": "M 172"}
+,{"klapka": "102", "priezvisko": "Rovan", "email": "Branislav.Rovan@fmph.uniba.sk", "meno": "Branislav", "katedra": "KI", "miestnost": "M 259"}
+,{"klapka": "270, 245", "priezvisko": "Satrapinskyý", "email": "Leonid.Satrapinskyy@fmph.uniba.sk", "meno": "Leonid", "katedra": "KEF", "miestnost": "F2 P5"}
+,{"klapka": "184", "priezvisko": "Sedlák", "email": "Milan.Sedlak@fmph.uniba.sk", "meno": "Milan", "katedra": "KAMS", "miestnost": "M 204"}
+,{"klapka": "710", "priezvisko": "Selečéniová", "email": "Ivana.Seleceniova@fmph.uniba.sk", "meno": "Ivana", "katedra": "KI", "miestnost": "M 258"}
+,{"klapka": "391", "priezvisko": "Senderáková", "email": "Dagmar.Senderakova@fmph.uniba.sk", "meno": "Dagmar", "katedra": "KEF", "miestnost": "F2 149"}
+,{"klapka": "180", "priezvisko": "Siebertová", "email": "Zuzana.Siebertova@fmph.uniba.sk", "meno": "Zuzana", "katedra": "KAMS", "miestnost": "M 206"}
+,{"meno": "Tatiana", "priezvisko": "Sirotová", "email": "Tatiana.Sirotova@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "861", "priezvisko": "Sitár", "email": "Branislav.Sitar@fmph.uniba.sk", "meno": "Branislav", "katedra": "KJFB", "miestnost": "F2 139"}
+,{"klapka": "653", "priezvisko": "Ševera", "email": "Pavol.Severa@fmph.uniba.sk", "meno": "Pavol", "katedra": "KTFDF", "miestnost": "F2 135"}
+,{"klapka": "388", "priezvisko": "Šikudová", "email": "Elena.Sikudova@fmph.uniba.sk", "meno": "Elena", "katedra": "KAI", "miestnost": "I 3"}
+,{"klapka": "124, 332, 849", "priezvisko": "Šikurová", "email": "Libusa.Sikurova@fmph.uniba.sk", "meno": "Libuša", "katedra": "KJFB", "miestnost": "F1 353"}
+,{"meno": "Alexander", "miestnost": "I 11", "priezvisko": "Šimko", "email": "Alexander.Simko@fmph.uniba.sk", "katedra": "KAI"}
+,{"klapka": "543", "priezvisko": "Šimkovic", "email": "Fedor.Simkovic@fmph.uniba.sk", "meno": "Fedor", "katedra": "KJFB", "miestnost": "F1 268"}
+,{"meno": "Jaroslav", "miestnost": "AGO ", "priezvisko": "Šimon", "email": "Jaroslav.Simon@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "176", "priezvisko": "Širaň", "email": "Michal.Siran@fmph.uniba.sk", "meno": "Michal", "katedra": "KTFDF", "miestnost": "F2 132"}
+,{"klapka": "841", "priezvisko": "Uherčíková", "email": "Viera.Uhercikova@fmph.uniba.sk", "meno": "Viera", "katedra": "KAGDM", "miestnost": "M 124"}
+,{"meno": "František", "priezvisko": "Uherek", "email": "Frantisek.Uherek@fmph.uniba.sk", "katedra": "KEF"}
+,{"klapka": "323", "priezvisko": "Uherek", "email": "Martin.Uherek@fmph.uniba.sk", "meno": "Martin", "katedra": "KJFB", "miestnost": "F1 141"}
+,{"meno": "Ivana", "miestnost": "M 142", "priezvisko": "Uhlíková", "email": "Ivana.Uhlikova@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "585", "priezvisko": "Urban", "email": "Jan.Urban@fmph.uniba.sk", "meno": "Ján", "katedra": "KJFB", "miestnost": "F1 227"}
+,{"meno": "Miroslava", "miestnost": "F1 148", "priezvisko": "Urbašíková", "email": "Miroslava.Urbasikova@fmph.uniba.sk", "katedra": "KEF"}
+,{"klapka": "260", "priezvisko": "Bučková", "email": "Zuzana.Buckova@fmph.uniba.sk", "meno": "Zuzana", "katedra": "KAMS", "miestnost": "M 266"}
+,{"klapka": "196", "priezvisko": "Budiš", "email": "Jaroslav.Budis@fmph.uniba.sk", "meno": "Jaroslav", "katedra": "KI", "miestnost": "M 25"}
+,{"klapka": "425", "priezvisko": "Bujnová", "email": "Alena.Bujnova@fmph.uniba.sk", "meno": "Alena", "katedra": "KJFB", "miestnost": "F1 266"}
+,{"klapka": "542", "priezvisko": "Bulko", "email": "Martin.Bulko@fmph.uniba.sk", "meno": "Martin", "katedra": "KJFB", "miestnost": "F1 275"}
+,{"klapka": "559", "priezvisko": "Bušinská", "email": "Tatjana.Businska@fmph.uniba.sk", "meno": "Taťjana", "katedra": "KMANM", "miestnost": "M 231"}
+,{"klapka": "226", "priezvisko": "Buzáš", "email": "Peter.Buzas@fmph.uniba.sk", "meno": "Peter", "katedra": "SB", "miestnost": "F1 -105"}
+,{"klapka": "819", "priezvisko": "Hympánová", "email": "Ingrid.Hympanova@fmph.uniba.sk", "meno": "Ingrid", "katedra": "JSMF", "miestnost": "F1 251"}
+,{"klapka": "713", "priezvisko": "Kollár", "email": "Richard.Kollar@fmph.uniba.sk", "meno": "Richard", "katedra": "KAMS", "miestnost": "M 234"}
+,{"klapka": "727", "priezvisko": "Komara", "email": "Jan.Komara@fmph.uniba.sk", "meno": "Ján", "katedra": "KAI", "miestnost": "I 16"}
+,{"klapka": "212", "priezvisko": "Komová", "email": "Anna.Komova@fmph.uniba.sk", "meno": "Anna", "katedra": "CPP", "miestnost": "F1 120"}
+,{"klapka": "833", "priezvisko": "Kontrišová", "email": "Alzbeta.Kontrisova@fmph.uniba.sk", "meno": "Alžbeta", "katedra": "DEK", "miestnost": "F2 3"}
+,{"meno": "Peter", "miestnost": "F2 173", "priezvisko": "Kopáč", "email": "Peter.Kopac@fmph.uniba.sk", "katedra": "CITUK"}
+,{"klapka": "812", "priezvisko": "Korbaš", "email": "Julius.Korbas@fmph.uniba.sk", "meno": "Július", "katedra": "KAGDM", "miestnost": "M 139"}
+,{"klapka": "323", "priezvisko": "Koreňová", "email": "Lilla.Korenova@fmph.uniba.sk", "meno": "Lilla", "katedra": "KAGDM", "miestnost": "M 149"}
+,{"klapka": "300", "priezvisko": "Matušicová", "email": "Maria.Matusicova@fmph.uniba.sk", "meno": "Mária", "katedra": "CPP", "miestnost": "F1 119"}
+,{"klapka": "395", "priezvisko": "Mayerová", "email": "Karolina.Mayerova@fmph.uniba.sk", "meno": "Karolína", "katedra": "KZVI", "miestnost": "I 2"}
+,{"klapka": "106", "priezvisko": "Märk", "email": "TilmannD..Mark@fmph.uniba.sk", "meno": "Tilmann D.", "katedra": "KEF", "miestnost": "F2 36"}
+,{"klapka": "401", "priezvisko": "Mederly", "email": "Pavol.Mederly@fmph.uniba.sk", "meno": "Pavol", "katedra": "KI", "miestnost": "M 171"}
+,{"klapka": "757", "priezvisko": "Mederly", "email": "Peter.Mederly@fmph.uniba.sk", "meno": "Peter", "katedra": "VC", "miestnost": "M 111"}
+,{"klapka": "581", "priezvisko": "Medvecká", "email": "Veronika.Medvecka@fmph.uniba.sk", "meno": "Veronika", "katedra": "KEF", "miestnost": "F2 74"}
+,{"klapka": "103", "priezvisko": "Medveď", "email": "Milan.Medved@fmph.uniba.sk", "meno": "Milan", "katedra": "KMANM", "miestnost": "M 104"}
+,{"klapka": "178", "priezvisko": "Pémová", "email": "Marta.Pemova@fmph.uniba.sk", "meno": "Marta", "katedra": "KAGDM", "miestnost": "M 148"}
+,{"klapka": "308", "priezvisko": "Peres", "email": "Samuel.Peres@fmph.uniba.sk", "meno": "Sámuel", "katedra": "KMANM", "miestnost": "M 238"}
+,{"klapka": "401", "priezvisko": "Petrík", "email": "Jan.Petrik@fmph.uniba.sk", "meno": "Ján", "katedra": "VC", "miestnost": "M 165"}
+,{"klapka": "278", "priezvisko": "Petrovič", "email": "Pavel.Petrovic@fmph.uniba.sk", "meno": "Pavel", "katedra": "KAI", "miestnost": "I 24a"}
+,{"klapka": "163", "priezvisko": "Pevný", "email": "Michal.Pevny@fmph.uniba.sk", "meno": "Michal", "katedra": "CPP", "miestnost": "F1 321"}
+,{"meno": "Lívia", "miestnost": "F2 109", "priezvisko": "Pidiková", "email": "Livia.Pidikova@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "269", "priezvisko": "Pikna", "email": "Miroslav.Pikna@fmph.uniba.sk", "meno": "Miroslav", "katedra": "KJFB", "miestnost": "F1 318"}
+,{"klapka": "177", "priezvisko": "Tonhauzer", "email": "Peter.Tonhauzer@fmph.uniba.sk", "meno": "Peter", "katedra": "KAFZM", "miestnost": "F2 -210"}
+,{"klapka": "610", "priezvisko": "Tóth", "email": "Juraj.Toth@fmph.uniba.sk", "meno": "Juraj", "katedra": "KAFZM", "miestnost": "F2 204"}
+,{"meno": "Martin", "miestnost": "M 221", "priezvisko": "Tóth", "email": "Martin.Toth@fmph.uniba.sk", "katedra": "KAMS"}
+,{"klapka": "285", "priezvisko": "Trenčan", "email": "Jozef.Trencan@fmph.uniba.sk", "meno": "Jozef", "katedra": "KTFDF", "miestnost": "F1 250"}
+,{"klapka": "104", "priezvisko": "Trenčanský", "email": "Jan.Trencansky@fmph.uniba.sk", "meno": "Ján", "katedra": "VC", "miestnost": "M 8"}
+,{"klapka": "134", "priezvisko": "Trnovská", "email": "Maria.Trnovska@fmph.uniba.sk", "meno": "Mária", "katedra": "KAMS", "miestnost": "M 267"}
+,{"klapka": "272, 243", "priezvisko": "Truchlý", "email": "Martin.Truchly@fmph.uniba.sk", "meno": "Martin", "katedra": "KEF", "miestnost": "F2 P4"}
+,{"klapka": "661", "priezvisko": "Rovnianková", "email": "Jolana.Rovniankova@fmph.uniba.sk", "meno": "Jolana", "katedra": "KTFDF", "miestnost": "F1 166"}
+,{"klapka": "785", "priezvisko": "Rudolfová", "email": "Zuzana.Rudolfova@fmph.uniba.sk", "meno": "Zuzana", "katedra": "VC", "miestnost": "M 210"}
+,{"meno": "Tomáš", "miestnost": "M 131", "priezvisko": "Rusin", "email": "Tomas.Rusin@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "230", "priezvisko": "Rusnáková", "email": "Katarina.Rusnakova@fmph.uniba.sk", "meno": "Katarína", "katedra": "DEK", "miestnost": "F2 6"}
+,{"klapka": "425", "priezvisko": "Ružička", "email": "Jan.Ruzicka@fmph.uniba.sk", "meno": "Ján", "katedra": "KJFB", "miestnost": "F1 265"}
+,{"klapka": "672", "priezvisko": "Rybár", "email": "Jan.Rybar@fmph.uniba.sk", "meno": "Ján", "katedra": "KAI", "miestnost": "I 25"}
+,{"klapka": "286, 241", "priezvisko": "Rybár", "email": "Peter.Rybar@fmph.uniba.sk", "meno": "Peter", "katedra": "KJFB", "miestnost": "F1 342"}
+,{"meno": "Augustín", "priezvisko": "Skopal", "email": "Augustin.Skopal@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"meno": "Katarína", "miestnost": "F1 347", "priezvisko": "Skúpa", "email": "Katarina.Skupa@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "802", "priezvisko": "Sládok", "email": "Viktor.Sladok@fmph.uniba.sk", "meno": "Viktor", "katedra": "KTVS", "miestnost": "SG 2"}
+,{"klapka": "490", "priezvisko": "Slavíčková", "email": "Maria.Slavickova@fmph.uniba.sk", "meno": "Mária", "katedra": "KAGDM", "miestnost": "M 147"}
+,{"klapka": "262", "priezvisko": "Slávková", "email": "Jana.Slavkova@fmph.uniba.sk", "meno": "Jana", "katedra": "VC", "miestnost": "M 167"}
+,{"klapka": "193", "priezvisko": "Sleziak", "email": "Martin.Sleziak@fmph.uniba.sk", "meno": "Martin", "katedra": "KAGDM", "miestnost": "M 129"}
+,{"klapka": "424", "priezvisko": "Slobodová", "email": "Zdenka.Slobodova@fmph.uniba.sk", "meno": "Zdenka", "katedra": "KAI", "miestnost": "I 24b"}
+,{"klapka": "444", "priezvisko": "Šiška", "email": "Jozef.Siska@fmph.uniba.sk", "meno": "Jozef", "katedra": "KAI", "miestnost": "I 7"}
+,{"klapka": "652", "priezvisko": "Šivo", "email": "Alexander.Sivo@fmph.uniba.sk", "meno": "Alexander", "katedra": "KJFB", "miestnost": "F1 272"}
+,{"klapka": "877", "priezvisko": "Škoviera", "email": "Martin.Skoviera@fmph.uniba.sk", "meno": "Martin", "katedra": "KI", "miestnost": "M 257"}
+,{"meno": "Radoslav", "miestnost": "I 19", "priezvisko": "Škoviera", "email": "Radoslav.Skoviera@fmph.uniba.sk", "katedra": "KAI"}
+,{"klapka": "176", "priezvisko": "Škovran", "email": "Matej.Skovran@fmph.uniba.sk", "meno": "Matej", "katedra": "KTFDF", "miestnost": "F2 132"}
+,{"meno": "Jakub", "miestnost": "MLC ", "priezvisko": "Šoltýs", "email": "Jakub.Soltys@fmph.uniba.sk", "katedra": "KEF"}
+,{"klapka": "239, 857, 244", "priezvisko": "Šrámek", "email": "Jozef.Sramek@fmph.uniba.sk", "meno": "Jozef", "katedra": "KEF", "miestnost": "F2 P7"}
+,{"meno": "Jana", "miestnost": "F1 148", "priezvisko": "Útla", "email": "Jana.Utla@fmph.uniba.sk", "katedra": "KTFDF"}
+,{"klapka": "541", "priezvisko": "Kornoš", "email": "Leonard.Kornos@fmph.uniba.sk", "meno": "Leonard", "katedra": "KAFZM", "miestnost": "AGO,F2 207"}
+,{"klapka": "858", "priezvisko": "Koronci", "email": "BabinskaMartina.Koronci@fmph.uniba.sk", "meno": "Babinská Martina", "katedra": "KMANM", "miestnost": "M 172"}
+,{"klapka": "233", "priezvisko": "Kořínková", "email": "Anna.Korinkova@fmph.uniba.sk", "meno": "Anna", "katedra": "KAFZM", "miestnost": "F2 255"}
+,{"klapka": "725", "priezvisko": "Kossaczká", "email": "Lubica.Kossaczka@fmph.uniba.sk", "meno": "Ľubica", "katedra": "KAMS", "miestnost": "M 273"}
+,{"klapka": "837", "priezvisko": "Kostolányi", "email": "Peter.Kostolanyi@fmph.uniba.sk", "meno": "Peter", "katedra": "KI", "miestnost": "M 227"}
+,{"klapka": "615", "priezvisko": "Košinár", "email": "Ivan.Kosinar@fmph.uniba.sk", "meno": "Ivan", "katedra": "KAFZM", "miestnost": "F2 44"}
+,{"klapka": "687", "priezvisko": "Košinárová", "email": "Anna.Kosinarova@fmph.uniba.sk", "meno": "Anna", "katedra": "KTFDF", "miestnost": "F2 102B"}
+,{"klapka": "477", "priezvisko": "Melicherčík", "email": "Igor.Melichercik@fmph.uniba.sk", "meno": "Igor", "katedra": "KAMS", "miestnost": "M 207"}
+,{"meno": "Milan", "miestnost": "F1 228", "priezvisko": "Melicherčík", "email": "Milan.Melichercik@fmph.uniba.sk", "katedra": "KJFB"}
+,{"meno": "Sopio", "miestnost": "F1 350", "priezvisko": "Melikishvili", "email": "Sopio.Melikishvili@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "495", "priezvisko": "Melo", "email": "Marian.Melo@fmph.uniba.sk", "meno": "Marián", "katedra": "KAFZM", "miestnost": "F1 369"}
+,{"klapka": "166", "priezvisko": "Mendelová", "email": "Elena.Mendelova@fmph.uniba.sk", "meno": "Elena", "katedra": "KAI", "miestnost": "I 40"}
+,{"meno": "Michal", "miestnost": "F1 300", "priezvisko": "Mereš", "email": "Michal.Meres@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "865", "priezvisko": "Mesároš", "email": "Vladimir.Mesaros@fmph.uniba.sk", "meno": "Vladimír", "katedra": "KEF", "miestnost": "F2 150"}
+,{"klapka": "248", "priezvisko": "Pipíš", "email": "Michal.Pipis@fmph.uniba.sk", "meno": "Michal", "katedra": "SB", "miestnost": "F2 -104"}
+,{"klapka": "689", "priezvisko": "Pišút", "email": "Jan.Pisut@fmph.uniba.sk", "meno": "Ján", "katedra": "KTFDF", "miestnost": "F2 103B"}
+,{"klapka": "650", "priezvisko": "Plachetka", "email": "Tomas.Plachetka@fmph.uniba.sk", "meno": "Tomáš", "katedra": "KI", "miestnost": "M 262"}
+,{"klapka": "494", "priezvisko": "Plašienka", "email": "Dusan.Plasienka@fmph.uniba.sk", "meno": "Dušan", "katedra": "KEF", "miestnost": "F2 246"}
+,{"klapka": "147", "priezvisko": "Plavčan", "email": "Jozef.Plavcan@fmph.uniba.sk", "meno": "Jozef", "katedra": "KEF", "miestnost": "F2 147"}
+,{"klapka": "492", "priezvisko": "Plazák", "email": "Lukas.Plazak@fmph.uniba.sk", "meno": "Lukáš", "katedra": "KJFB", "miestnost": "F1 307"}
+,{"klapka": "867, 276, 243", "priezvisko": "Plecenik", "email": "Andrej.Plecenik@fmph.uniba.sk", "meno": "Andrej", "katedra": "KEF", "miestnost": "F2 P1"}
+,{"klapka": "581", "priezvisko": "Tučeková", "email": "Zlata.Tucekova@fmph.uniba.sk", "meno": "Zlata", "katedra": "KEF", "miestnost": "F2 74"}
+,{"meno": "Katarína", "priezvisko": "Tureková", "email": "Katarina.Turekova@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "272", "priezvisko": "Sobota", "email": "Robert.Sobota@fmph.uniba.sk", "meno": "Robert", "katedra": "KEF", "miestnost": "F2 L3"}
+,{"klapka": "457", "priezvisko": "Sokol", "email": "Alois.Sokol@fmph.uniba.sk", "meno": "Alois", "katedra": "KAFZM", "miestnost": "F1 372"}
+,{"klapka": "522", "priezvisko": "Solan", "email": "Zdena.Solan@fmph.uniba.sk", "meno": "Zdena", "katedra": "DEK", "miestnost": "M 2"}
+,{"klapka": "266", "priezvisko": "Solčan", "email": "Stefan.Solcan@fmph.uniba.sk", "meno": "Štefan", "katedra": "KAGDM", "miestnost": "M 157"}
+,{"klapka": "135", "priezvisko": "Somorčík", "email": "Jan.Somorcik@fmph.uniba.sk", "meno": "Ján", "katedra": "KAMS", "miestnost": "M 245"}
+,{"klapka": "614", "priezvisko": "Soóky", "email": "Peter.Sooky@fmph.uniba.sk", "meno": "Peter", "katedra": "VL", "miestnost": "D 218"}
+,{"meno": "Pavol", "miestnost": "MLC ", "priezvisko": "Stajanča", "email": "Pavol.Stajanca@fmph.uniba.sk", "katedra": "KEF"}
+,{"klapka": "836", "priezvisko": "Štefanec", "email": "Richard.Stefanec@fmph.uniba.sk", "meno": "Richard", "katedra": "KI", "miestnost": "M 101"}
+,{"klapka": "862", "priezvisko": "Štefunková", "email": "Dana.Stefunkova@fmph.uniba.sk", "meno": "Dana", "katedra": "KEF", "miestnost": "F2 209"}
+,{"klapka": "239, 857, 279", "priezvisko": "Štrauch", "email": "Peter.Strauch@fmph.uniba.sk", "meno": "Peter", "katedra": "KEF", "miestnost": "F2 P7"}
+,{"klapka": "105", "priezvisko": "Štrba", "email": "Anton.Strba@fmph.uniba.sk", "meno": "Anton", "katedra": "KEF", "miestnost": "F2 148"}
+,{"klapka": "136", "priezvisko": "Štulajter", "email": "Frantisek.Stulajter@fmph.uniba.sk", "meno": "František", "katedra": "KAMS", "miestnost": "M 247"}
+,{"meno": "Veronika", "miestnost": "F1 350", "priezvisko": "Šubjaková", "email": "Veronika.Subjakova@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "763", "priezvisko": "Šulc", "email": "Miroslav.Sulc@fmph.uniba.sk", "meno": "Miroslav", "katedra": "KJFB", "miestnost": "F1 303"}
+,{"klapka": "251", "priezvisko": "Vajda", "email": "Roman.Vajda@fmph.uniba.sk", "meno": "Roman", "katedra": "KEF", "miestnost": "F2 236"}
+,{"klapka": "142", "priezvisko": "Valášek", "email": "Jan.Valasek@fmph.uniba.sk", "meno": "Ján", "katedra": "KMANM", "miestnost": "M 178"}
+,{"meno": "Kristián", "miestnost": "I 19", "priezvisko": "Valentín", "email": "Kristian.Valentin@fmph.uniba.sk", "katedra": "KAI"}
+,{"meno": "Daniel", "miestnost": "F2 170", "priezvisko": "Vančo", "email": "Daniel.Vanco@fmph.uniba.sk", "katedra": "CITUK"}
+,{"klapka": "860", "priezvisko": "Vankúš", "email": "Peter.Vankus@fmph.uniba.sk", "meno": "Peter", "katedra": "KAGDM", "miestnost": "M 146"}
+,{"meno": "Monika", "miestnost": "F1 148", "priezvisko": "Vanyová", "email": "Monika.Vanyova@fmph.uniba.sk", "katedra": "KTFDF"}
+,{"klapka": "191", "priezvisko": "Košová", "email": "Katarina.Kosova@fmph.uniba.sk", "meno": "Katarína", "katedra": "KEC", "miestnost": "I -1"}
+,{"meno": "Dominika", "miestnost": "M 148", "priezvisko": "Koštová", "email": "Dominika.Kostova@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "837", "priezvisko": "Kováč", "email": "Ivan.Kovac@fmph.uniba.sk", "meno": "Ivan", "katedra": "KI", "miestnost": "M 227"}
+,{"meno": "Michal", "miestnost": "M 25", "priezvisko": "Kováč", "email": "Michal.Kovac@fmph.uniba.sk", "katedra": "KAI"}
+,{"meno": "Andrej", "miestnost": "F1 307", "priezvisko": "Kováčik", "email": "Andrej.Kovacik@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "616, 440", "priezvisko": "Kováčik", "email": "Dusan.Kovacik@fmph.uniba.sk", "meno": "Dušan", "katedra": "KEF", "miestnost": "F2 37"}
+,{"klapka": "176", "priezvisko": "Kováčik", "email": "Samuel.Kovacik@fmph.uniba.sk", "meno": "Samuel", "katedra": "KTFDF", "miestnost": "F2 132"}
+,{"klapka": "441", "priezvisko": "Mihálik", "email": "Andrej.Mihalik@fmph.uniba.sk", "meno": "Andrej", "katedra": "KAI", "miestnost": "I 4"}
+,{"klapka": "834", "priezvisko": "Michalíková", "email": "Anna.Michalikova@fmph.uniba.sk", "meno": "Anna", "katedra": "DEK", "miestnost": "F2 5"}
+,{"klapka": "831", "priezvisko": "Michellerová", "email": "Matilda.Michellerova@fmph.uniba.sk", "meno": "Matilda", "katedra": "DEK", "miestnost": "F2 2"}
+,{"meno": "Peter", "miestnost": "F2 173", "priezvisko": "Miklian", "email": "Peter.Miklian@fmph.uniba.sk", "katedra": "CITUK"}
+,{"klapka": "271, 244", "priezvisko": "Mikula", "email": "Marian.Mikula@fmph.uniba.sk", "meno": "Marián", "katedra": "KEF", "miestnost": "F2 P6"}
+,{"klapka": "471", "priezvisko": "Mikuláš", "email": "Jan.Mikulas@fmph.uniba.sk", "meno": "Ján", "katedra": "KAI", "miestnost": "M 161"}
+,{"meno": "Daniel", "miestnost": "F2 173", "priezvisko": "Mikulka", "email": "Daniel.Mikulka@fmph.uniba.sk", "katedra": "CITUK"}
+,{"klapka": "274, 243, 190", "priezvisko": "Plecenik", "email": "Tomas.Plecenik@fmph.uniba.sk", "meno": "Tomáš", "katedra": "KEF", "miestnost": "F2 P3"}
+,{"klapka": "620", "priezvisko": "Plesník", "email": "Jan.Plesnik@fmph.uniba.sk", "meno": "Ján", "katedra": "KMANM", "miestnost": "M 230"}
+,{"klapka": "836", "priezvisko": "Plžík", "email": "Milan.Plzik@fmph.uniba.sk", "meno": "Milan", "katedra": "KI", "miestnost": "M 101"}
+,{"klapka": "801", "priezvisko": "Podkonický", "email": "Ondrej.Podkonicky@fmph.uniba.sk", "meno": "Ondrej", "katedra": "KTVS", "miestnost": "SG 3"}
+,{"meno": "Barbora", "miestnost": "M 123", "priezvisko": "Pokorná", "email": "Barbora.Pokorna@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "561", "priezvisko": "Poláková", "email": "Marcela.Polakova@fmph.uniba.sk", "meno": "Marcela", "katedra": "KJP", "miestnost": "F2 284"}
+,{"klapka": "101", "priezvisko": "Stanek", "email": "Martin.Stanek@fmph.uniba.sk", "meno": "Martin", "katedra": "KI", "miestnost": "M 214"}
+,{"klapka": "388", "priezvisko": "Stanek", "email": "Stanislav.Stanek@fmph.uniba.sk", "meno": "Stanislav", "katedra": "KAI", "miestnost": "I 3"}
+,{"klapka": "454", "priezvisko": "Staníček", "email": "Jaroslav.Stanicek@fmph.uniba.sk", "meno": "Jaroslav", "katedra": "KJFB", "miestnost": "F1 274"}
+,{"klapka": "515", "priezvisko": "Stankovičová", "email": "Maria.Stankovicova@fmph.uniba.sk", "meno": "Mária", "katedra": "KAI", "miestnost": "I 41"}
+,{"klapka": "240", "priezvisko": "Stano", "email": "Michal.Stano@fmph.uniba.sk", "meno": "Michal", "katedra": "KEF", "miestnost": "F2 54"}
+,{"klapka": "260", "priezvisko": "Stehlíková", "email": "Beata.Stehlikova@fmph.uniba.sk", "meno": "Beáta", "katedra": "KAMS", "miestnost": "M 266"}
+,{"klapka": "181", "priezvisko": "Strapcová", "email": "Danica.Strapcova@fmph.uniba.sk", "meno": "Danica", "katedra": "KAMS", "miestnost": "M 239"}
+,{"klapka": "756", "priezvisko": "Švaňa", "email": "Peter.Svana@fmph.uniba.sk", "meno": "Peter", "katedra": "KMANM", "miestnost": "M 179"}
+,{"meno": "Norbert", "miestnost": "M 221", "priezvisko": "Švarda", "email": "Norbert.Svarda@fmph.uniba.sk", "katedra": "KAMS"}
+,{"klapka": "289", "priezvisko": "Švorc", "email": "Karol.Svorc@fmph.uniba.sk", "meno": "Karol", "katedra": "KEF", "miestnost": "F2 69"}
+,{"meno": "Ivana", "miestnost": "M 142", "priezvisko": "Varhaníková", "email": "Ivana.Varhanikova@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "711", "priezvisko": "Vartíková", "email": "Eva.Vartikova@fmph.uniba.sk", "meno": "Eva", "katedra": "KJP", "miestnost": "F2 285"}
+,{"klapka": "106, 761", "priezvisko": "Veis", "email": "Pavel.Veis@fmph.uniba.sk", "meno": "Pavel", "katedra": "KEF", "miestnost": "F2 36"}
+,{"meno": "Michaela", "miestnost": "F1 148", "priezvisko": "Velanová", "email": "Michaela.Velanova@fmph.uniba.sk", "katedra": "KTFDF"}
+,{"klapka": "422", "priezvisko": "Velmovská", "email": "Klara.Velmovska@fmph.uniba.sk", "meno": "Klára", "katedra": "KTFDF", "miestnost": "F1 155"}
+,{"klapka": "610", "priezvisko": "Vereš", "email": "Peter.Veres@fmph.uniba.sk", "meno": "Peter", "katedra": "KAFZM", "miestnost": "F2 204"}
+,{"meno": "Martin", "priezvisko": "Vesel", "email": "Martin.Vesel@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "626", "priezvisko": "Waczulíková", "email": "Iveta.Waczulikova@fmph.uniba.sk", "meno": "Iveta", "katedra": "KJFB", "miestnost": "F1 230"}
+,{"klapka": "211", "priezvisko": "Wagner", "email": "Miroslav.Wagner@fmph.uniba.sk", "meno": "Miroslav", "katedra": "KZVI", "miestnost": "I 22"}
+,{"klapka": "253", "priezvisko": "Winczer", "email": "Michal.Winczer@fmph.uniba.sk", "meno": "Michal", "katedra": "KZVI", "miestnost": "I 21"}
+,{"meno": "Josef", "priezvisko": "Withalm", "email": "Josef.Withalm@fmph.uniba.sk", "katedra": "KI"}
+,{"klapka": "199", "priezvisko": "Wurelly", "email": "Ferdinand.Wurelly@fmph.uniba.sk", "meno": "Ferdinand", "katedra": "VL", "miestnost": "D 235"}
+,{"meno": "Kristína", "miestnost": "M 133", "priezvisko": "Kováčiková", "email": "Kristina.Kovacikova@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"meno": "Monika", "priezvisko": "Kováčová", "email": "Monika.Kovacova@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"meno": "Tomáš", "miestnost": "M 123", "priezvisko": "Kovačovský", "email": "Tomas.Kovacovsky@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "460", "priezvisko": "Kovaľ", "email": "Michal.Koval@fmph.uniba.sk", "meno": "Michal", "katedra": "KTFDF", "miestnost": "F2 145"}
+,{"meno": "Andrej", "miestnost": "F1 349", "priezvisko": "Krafčík", "email": "Andrej.Krafcik@fmph.uniba.sk", "katedra": "KJFB"}
+,{"meno": "Miroslav", "miestnost": "F1 348", "priezvisko": "Krajčí", "email": "Miroslav.Krajci@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "420", "priezvisko": "Krajčová", "email": "Monika.Krajcova@fmph.uniba.sk", "meno": "Monika", "katedra": "DEK", "miestnost": "M 1"}
+,{"klapka": "308", "priezvisko": "Minár", "email": "Jozef.Minar@fmph.uniba.sk", "meno": "Jozef", "katedra": "KMANM", "miestnost": "M 238"}
+,{"klapka": "480", "priezvisko": "Mináriková", "email": "Maria.Minarikova@fmph.uniba.sk", "meno": "Mária", "katedra": "DEK", "miestnost": "M 4"}
+,{"klapka": "710", "priezvisko": "Mitrengová", "email": "Marika.Mitrengova@fmph.uniba.sk", "meno": "Marika", "katedra": "KI", "miestnost": "M 258"}
+,{"meno": "Milan", "priezvisko": "Mižičko", "email": "Milan.Mizicko@fmph.uniba.sk", "katedra": "KTVS"}
+,{"meno": "Vladimír", "priezvisko": "Mlynárik", "email": "Vladimir.Mlynarik@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "179", "priezvisko": "Moczo", "email": "Peter.Moczo@fmph.uniba.sk", "meno": "Peter", "katedra": "KAFZM", "miestnost": "F1 208"}
+,{"klapka": "641", "priezvisko": "Mojžiš", "email": "Martin.Mojzis@fmph.uniba.sk", "meno": "Martin", "katedra": "KTFDF", "miestnost": "F2 133"}
+,{"klapka": "802", "priezvisko": "Mókus", "email": "Ladislav.Mokus@fmph.uniba.sk", "meno": "Ladislav", "katedra": "KTVS", "miestnost": "SG 2"}
+,{"klapka": "442", "priezvisko": "Polec", "email": "Jaroslav.Polec@fmph.uniba.sk", "meno": "Jaroslav", "katedra": "KAGDM", "miestnost": "I 5"}
+,{"klapka": "390", "priezvisko": "Polednová", "email": "Marianna.Polednova@fmph.uniba.sk", "meno": "Marianna", "katedra": "KAGDM", "miestnost": "M 154"}
+,{"klapka": "758", "priezvisko": "Polesňák", "email": "Lukas.Polesnak@fmph.uniba.sk", "meno": "Lukáš", "katedra": "KMANM", "miestnost": "M 106"}
+,{"klapka": "618", "priezvisko": "Pongrác", "email": "Branislav.Pongrac@fmph.uniba.sk", "meno": "Branislav", "katedra": "KAFZM", "miestnost": "F2 89"}
+,{"klapka": "162", "priezvisko": "Porubčan", "email": "Vladimir.Porubcan@fmph.uniba.sk", "meno": "Vladimír", "katedra": "KAFZM", "miestnost": "F2 205"}
+,{"klapka": "854", "priezvisko": "Pötheová", "email": "Alica.Potheova@fmph.uniba.sk", "meno": "Alica", "katedra": "DEK", "miestnost": "F2 8"}
+,{"klapka": "780", "priezvisko": "Potocký", "email": "Rastislav.Potocky@fmph.uniba.sk", "meno": "Rastislav", "katedra": "KAMS", "miestnost": "M 242"}
+,{"klapka": "571", "priezvisko": "Stríbrnská", "email": "Luboslava.Stribrnska@fmph.uniba.sk", "meno": "Ľuboslava", "katedra": "CPP", "miestnost": "F1 118"}
+,{"klapka": "571", "priezvisko": "Stríbrnská", "email": "Miroslava.Stribrnska@fmph.uniba.sk", "meno": "Miroslava", "katedra": "DEK", "miestnost": "F1 118"}
+,{"klapka": "(458)", "priezvisko": "Strmeň", "email": "Peter.Strmen@fmph.uniba.sk", "meno": "Peter", "katedra": "KJFB", "miestnost": "F1 305"}
+,{"klapka": "206", "priezvisko": "Styk", "email": "Tomas.Styk@fmph.uniba.sk", "meno": "Tomáš", "katedra": "VC", "miestnost": "M 168"}
+,{"klapka": "153", "priezvisko": "Sučanská", "email": "Anna.Sucanska@fmph.uniba.sk", "meno": "Anna", "katedra": "KAFZM", "miestnost": "F2 76"}
+,{"klapka": "368", "priezvisko": "Suchoňová", "email": "Maria.Suchonova@fmph.uniba.sk", "meno": "Mária", "katedra": "KEF", "miestnost": "F2 155"}
+,{"meno": "Ivan", "priezvisko": "Sukuba", "email": "Ivan.Sukuba@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "395", "priezvisko": "Veselovská", "email": "Michaela.Veselovska@fmph.uniba.sk", "meno": "Michaela", "katedra": "KZVI", "miestnost": "I 2"}
+,{"klapka": "(541)", "priezvisko": "Világi", "email": "Jozef.Vilagi@fmph.uniba.sk", "meno": "Jozef", "katedra": "KAFZM", "miestnost": "AGO,F2 207"}
+,{"klapka": "726", "priezvisko": "Vilášek", "email": "Pavel.Vilasek@fmph.uniba.sk", "meno": "Pavel", "katedra": "KJP", "miestnost": "F1 325"}
+,{"klapka": "207", "priezvisko": "Vinař", "email": "Tomas.Vinar@fmph.uniba.sk", "meno": "Tomáš", "katedra": "KAI", "miestnost": "M 163"}
+,{"klapka": "443", "priezvisko": "Vince", "email": "Michal.Vince@fmph.uniba.sk", "meno": "Michal", "katedra": "KAI", "miestnost": "I 6"}
+,{"klapka": "201", "priezvisko": "Viszus", "email": "Eugen.Viszus@fmph.uniba.sk", "meno": "Eugen", "katedra": "KMANM", "miestnost": "M 180"}
+,{"klapka": "286", "priezvisko": "Vitovič", "email": "Pavol.Vitovic@fmph.uniba.sk", "meno": "Pavol", "katedra": "KJFB", "miestnost": "F1 343"}
+,{"klapka": "669", "priezvisko": "Zábudlá", "email": "Zuzana.Zabudla@fmph.uniba.sk", "meno": "Zuzana", "katedra": "KEF", "miestnost": "F2 154"}
+,{"klapka": "127", "priezvisko": "Zagiba", "email": "Matej.Zagiba@fmph.uniba.sk", "meno": "Matej", "katedra": "DEK", "miestnost": "F1 115"}
+,{"klapka": "468, 250, 245", "priezvisko": "Zahoran", "email": "Miroslav.Zahoran@fmph.uniba.sk", "meno": "Miroslav", "katedra": "KEF", "miestnost": "F2 242"}
+,{"klapka": "529, 616", "priezvisko": "Zahoranová", "email": "Anna.Zahoranova@fmph.uniba.sk", "meno": "Anna", "katedra": "KEF", "miestnost": "F2 40"}
+,{"klapka": "182", "priezvisko": "Zajačiková", "email": "Viera.Zajacikova@fmph.uniba.sk", "meno": "Viera", "katedra": "KAMS", "miestnost": "M 270"}
+,{"klapka": "725", "priezvisko": "Krajčovič", "email": "Dusan.Krajcovic@fmph.uniba.sk", "meno": "Dušan", "katedra": "KAMS", "miestnost": "M 273"}
+,{"klapka": "853", "priezvisko": "Králová", "email": "Jarmila.Kralova@fmph.uniba.sk", "meno": "Jarmila", "katedra": "DEK", "miestnost": "F2 9"}
+,{"klapka": "470", "priezvisko": "Královič", "email": "Rastislav.Kralovic@fmph.uniba.sk", "meno": "Rastislav", "katedra": "KI", "miestnost": "M 261"}
+,{"meno": "Martin", "miestnost": "M 25", "priezvisko": "Kravec", "email": "Martin.Kravec@fmph.uniba.sk", "katedra": "KAI"}
+,{"meno": "Martin", "miestnost": "SHMÚ ", "priezvisko": "Kremler", "email": "Martin.Kremler@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "327", "priezvisko": "Kristek", "email": "Jozef.Kristek@fmph.uniba.sk", "meno": "Jozef", "katedra": "KAFZM", "miestnost": "F1 207"}
+,{"meno": "Miriam", "miestnost": "F1 207", "priezvisko": "Kristeková", "email": "Miriam.Kristekova@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "425", "priezvisko": "Moravcsík", "email": "Attila.Moravcsik@fmph.uniba.sk", "meno": "Attila", "katedra": "KJFB", "miestnost": "F1 266"}
+,{"klapka": "584", "priezvisko": "Moravský", "email": "Ladislav.Moravsky@fmph.uniba.sk", "meno": "Ladislav", "katedra": "KEF", "miestnost": "F2 81"}
+,{"klapka": "153", "priezvisko": "Morva", "email": "Imrich.Morva@fmph.uniba.sk", "meno": "Imrich", "katedra": "KAFZM", "miestnost": "F2 76"}
+,{"klapka": "177, 679", "priezvisko": "Morvová", "email": "Marcela.Morvova@fmph.uniba.sk", "meno": "Marcela", "katedra": "KAFZM", "miestnost": "F2 47"}
+,{"klapka": "679", "priezvisko": "Morvová", "email": "Marcela.Morvova@fmph.uniba.sk", "meno": "Marcela", "katedra": "KJFB", "miestnost": "F1 324"}
+,{"klapka": "199", "priezvisko": "Móser", "email": "Alfred.Moser@fmph.uniba.sk", "meno": "Alfréd", "katedra": "VL", "miestnost": "D 237"}
+,{"meno": "Martin", "priezvisko": "Moško", "email": "Martin.Mosko@fmph.uniba.sk", "katedra": "KEF"}
+,{"klapka": "803", "priezvisko": "Potočný", "email": "Vojtech.Potocny@fmph.uniba.sk", "meno": "Vojtech", "katedra": "KTVS", "miestnost": "SG 1"}
+,{"meno": "Alexandra", "priezvisko": "Poturnyová", "email": "Alexandra.Poturnyova@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "544", "priezvisko": "Povinec", "email": "Pavel.Povinec@fmph.uniba.sk", "meno": "Pavel", "katedra": "KJFB", "miestnost": "F1 273"}
+,{"klapka": "579, 663", "priezvisko": "Prešnajder", "email": "Peter.Presnajder@fmph.uniba.sk", "meno": "Peter", "katedra": "KTFDF", "miestnost": "F2 106"}
+,{"klapka": "718", "priezvisko": "Prívara", "email": "Igor.Privara@fmph.uniba.sk", "meno": "Igor", "katedra": "KI", "miestnost": "M 260"}
+,{"klapka": "479", "priezvisko": "Svitková", "email": "Beata.Svitkova@fmph.uniba.sk", "meno": "Beata", "katedra": "DEK", "miestnost": "M 6"}
+,{"klapka": "458, 449", "priezvisko": "Sýkora", "email": "Ivan.Sykora@fmph.uniba.sk", "meno": "Ivan", "katedra": "KJFB", "miestnost": "F1 302"}
+,{"meno": "Alexander", "miestnost": "F1 300", "priezvisko": "Szabó", "email": "Alexander.Szabo@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "451", "priezvisko": "Szarka", "email": "Imrich.Szarka@fmph.uniba.sk", "meno": "Imrich", "katedra": "KJFB", "miestnost": "F1 258"}
+,{"klapka": "485", "priezvisko": "Szarka", "email": "Jan.Szarka@fmph.uniba.sk", "meno": "Ján", "katedra": "KJFB", "miestnost": "F1 362"}
+,{"klapka": "180", "priezvisko": "Szolgayová", "email": "Jana.Szolgayova@fmph.uniba.sk", "meno": "Jana", "katedra": "KAMS", "miestnost": "M 206"}
+,{"meno": "Pavol", "priezvisko": "Szomolányi", "email": "Pavol.Szomolanyi@fmph.uniba.sk", "katedra": "KJFB"}
+,{"meno": "Petra", "miestnost": "F1 148", "priezvisko": "Vnuková", "email": "Petra.Vnukova@fmph.uniba.sk", "katedra": "KTFDF"}
+,{"klapka": "668", "priezvisko": "Vojtek", "email": "Pavel.Vojtek@fmph.uniba.sk", "meno": "Pavel", "katedra": "KEF", "miestnost": "F2 153"}
+,{"klapka": "208", "priezvisko": "Zaťko", "email": "Valent.Zatko@fmph.uniba.sk", "meno": "Valent", "katedra": "KAGDM", "miestnost": "M 117"}
+,{"meno": "Jakub", "miestnost": "F2 140", "priezvisko": "Zeman", "email": "Jakub.Zeman@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "134", "priezvisko": "Zeman", "email": "Juraj.Zeman@fmph.uniba.sk", "meno": "Juraj", "katedra": "KAMS", "miestnost": "M 276"}
+,{"klapka": "837", "priezvisko": "Zeman", "email": "Marek.Zeman@fmph.uniba.sk", "meno": "Marek", "katedra": "KI", "miestnost": "M 227"}
+,{"klapka": "711", "priezvisko": "Zemanová", "email": "Alena.Zemanova@fmph.uniba.sk", "meno": "Alena", "katedra": "KJP", "miestnost": "F2 285"}
+,{"meno": "Pavol", "miestnost": "AGO,F2 204", "priezvisko": "Zigo", "email": "Pavol.Zigo@fmph.uniba.sk", "katedra": "KAFZM"}
+,{"klapka": "247", "priezvisko": "Žemlička", "email": "Martin.Zemlicka@fmph.uniba.sk", "meno": "Martin", "katedra": "KEF", "miestnost": "F2 232"}
+,{"klapka": "455", "priezvisko": "Ženiš", "email": "Tibor.Zenis@fmph.uniba.sk", "meno": "Tibor", "katedra": "KJFB", "miestnost": "F1 373"}
+,{"klapka": "191", "priezvisko": "Žiaková", "email": "Zuzana.Ziakova@fmph.uniba.sk", "meno": "Zuzana", "katedra": "KEC", "miestnost": "I -1"}
+,{"klapka": "761, 520", "priezvisko": "Krištof", "email": "Jaroslav.Kristof@fmph.uniba.sk", "meno": "Jaroslav", "katedra": "KEF", "miestnost": "F2 38"}
+,{"klapka": "272, 243", "priezvisko": "Krško", "email": "Ondrej.Krsko@fmph.uniba.sk", "meno": "Ondrej", "katedra": "KEF", "miestnost": "F2 P4"}
+,{"klapka": "581", "priezvisko": "Krumpolec", "email": "Richard.Krumpolec@fmph.uniba.sk", "meno": "Richard", "katedra": "KEF", "miestnost": "F2 74"}
+,{"meno": "Martin", "priezvisko": "Krupa", "email": "Martin.Krupa@fmph.uniba.sk", "katedra": "KI"}
+,{"klapka": "205", "priezvisko": "Kubáček", "email": "Zbynek.Kubacek@fmph.uniba.sk", "meno": "Zbyněk", "katedra": "KMANM", "miestnost": "M 177"}
+,{"klapka": "665", "priezvisko": "Kubina", "email": "Filip.Kubina@fmph.uniba.sk", "meno": "Filip", "katedra": "KAFZM", "miestnost": "F1 205"}
+,{"klapka": "677", "priezvisko": "Kubincová", "email": "Jana.Kubincova@fmph.uniba.sk", "meno": "Jana", "katedra": "KEF", "miestnost": "F2 41"}
+,{"meno": "Jozef", "miestnost": "F1 228", "priezvisko": "Motyčka", "email": "Jozef.Motycka@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "351", "priezvisko": "Mózer", "email": "Jan.Mozer@fmph.uniba.sk", "meno": "Ján", "katedra": "KMANM", "miestnost": "M 173"}
+,{"meno": "Dagmar", "miestnost": "M 134", "priezvisko": "Môťovská", "email": "Dagmar.Motovska@fmph.uniba.sk", "katedra": "KAGDM"}
+,{"klapka": "718", "priezvisko": "Mráz", "email": "Robert.Mraz@fmph.uniba.sk", "meno": "Robert", "katedra": "KI", "miestnost": "M 260"}
+,{"klapka": "248", "priezvisko": "Múčka", "email": "Andrej.Mucka@fmph.uniba.sk", "meno": "Andrej", "katedra": "SB", "miestnost": "F2 -104"}
+,{"klapka": "571", "priezvisko": "Múdra", "email": "Aneta.Mudra@fmph.uniba.sk", "meno": "Aneta", "katedra": "CPP", "miestnost": "F1 118"}
+,{"klapka": "451", "priezvisko": "Müllerová", "email": "Monika.Mullerova@fmph.uniba.sk", "meno": "Monika", "katedra": "KJFB", "miestnost": "F1 267"}
+,{"klapka": "135", "priezvisko": "Szücs", "email": "Gabor.Szucs@fmph.uniba.sk", "meno": "Gábor", "katedra": "KAMS", "miestnost": "M 245"}
+,{"klapka": "752", "priezvisko": "Zlatoš", "email": "Pavol.Zlatos@fmph.uniba.sk", "meno": "Pavol", "katedra": "KAGDM", "miestnost": "M 128"}
+,{"meno": "Milan", "miestnost": "F1 347", "priezvisko": "Zvarík", "email": "Milan.Zvarik@fmph.uniba.sk", "katedra": "KJFB"}
+,{"klapka": "236", "priezvisko": "Kubincová", "email": "Zuzana.Kubincova@fmph.uniba.sk", "meno": "Zuzana", "katedra": "KZVI", "miestnost": "I 43"}
+,{"klapka": "239,857,245,165,144", "priezvisko": "Kubinec", "email": "Milan.Kubinec@fmph.uniba.sk", "meno": "Milan", "katedra": "KEF", "miestnost": "F2 P7"}
+,{"klapka": "760", "priezvisko": "Kučerová", "email": "Julia.Kucerova@fmph.uniba.sk", "meno": "Júlia", "katedra": "KAI", "miestnost": "M 153"}
+,{"klapka": "390", "priezvisko": "Kudličková", "email": "Sona.Kudlickova@fmph.uniba.sk", "meno": "Soňa", "katedra": "KAGDM", "miestnost": "M 154"}
+,{"klapka": "802", "priezvisko": "Kuchár", "email": "Tomas.Kuchar@fmph.uniba.sk", "meno": "Tomáš", "katedra": "KTVS", "miestnost": "SG 3"}
+,{"meno": "Roman", "miestnost": "M 203", "priezvisko": "Kukumberg", "email": "Roman.Kukumberg@fmph.uniba.sk", "katedra": "KAMS"}
+,{"klapka": "836", "priezvisko": "Kulich", "email": "Tomas.Kulich@fmph.uniba.sk", "meno": "Tomáš", "katedra": "KI", "miestnost": "M 101"}
+,{"klapka": "255", "priezvisko": "Muzslayová", "email": "Ildiko.Muzslayova@fmph.uniba.sk", "meno": "Ildikó", "katedra": "KAGDM", "miestnost": "M 141"}
+,{"klapka": "516", "priezvisko": "Kundracik", "email": "Frantisek.Kundracik@fmph.uniba.sk", "meno": "František", "katedra": "KEF", "miestnost": "F2 250"}
+,{"klapka": "832", "priezvisko": "Kupka", "email": "Ivan.Kupka@fmph.uniba.sk", "meno": "Ivan", "katedra": "KMANM", "miestnost": "M 175"}
+,{"klapka": "466, 244", "priezvisko": "Kúš", "email": "Peter.Kus@fmph.uniba.sk", "meno": "Peter", "katedra": "KEF", "miestnost": "F2 245"}
+,{"klapka": "624", "priezvisko": "Kvasnička", "email": "Peter.Kvasnicka@fmph.uniba.sk", "meno": "Peter", "katedra": "KJFB", "miestnost": "F2 -109"}
+,{"klapka": "754", "priezvisko": "Kvasz", "email": "Ladislav.Kvasz@fmph.uniba.sk", "meno": "Ladislav", "katedra": "KAGDM", "miestnost": "M 134"}
+,-1"}
+]

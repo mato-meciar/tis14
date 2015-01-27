@@ -1,5 +1,6 @@
 <?php
   require_once 'core/init.php';
+  require_once 'functions/functions.php';
   $inst = DB::getInstance();
 
   if(Session::exists('admin')){
@@ -16,7 +17,7 @@
   //unset($inst);
 ?>
 
-
+<?php header('Content-Type: text/html; charset=UTF-8'); ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,7 +27,7 @@
 </head>
 <body>
 	<?php
-		// Definovanie nacitavania stranok v tamplate
+		// Definovanie nacitavania stranok v template
 		$page = Input::Get('page');
 		if(empty($page))
 			require('pages/main.php');
