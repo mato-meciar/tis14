@@ -22,6 +22,11 @@
 <html>
 <head>
 	<title>TIS</title>
+	<div class="header">
+  <img src="img/logo.png" alt="logo" />
+  <h1>Databáza zamestnancov Univerzity Komenského</h1>
+  </div>
+  
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<script type="text/javascript" src="js/jquery.js"></script>
 </head>
@@ -38,4 +43,8 @@
 		
 	
 </body>
+<div id="footer">
+    <strong><p align=center>Copyright &copy; 2015 Vrecník, Mečiar, Mendel, Ivan.  All rights reserved.</p></strong>  
+</div>
+</footer> 
 </html>

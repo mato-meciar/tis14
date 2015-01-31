@@ -19,7 +19,7 @@
 	}
 	
 ?>
-
+<div class="post">
 <form method="post">
 	Login name:<br>
 	<input type="text" name="login">
@@ -30,3 +30,4 @@
 	<input type="hidden" name="token" value="<?php echo Token::Generate();?>">
 	<input type="submit" name="submit" value="Login">
 </form>
+</div>

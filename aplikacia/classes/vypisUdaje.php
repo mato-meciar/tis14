@@ -5,7 +5,7 @@
 		private static $_table;
 
 		private function __construct($data){
-			$this->_table = '<table border="1" class="_table">' . "<tr><th>Meno</th><th>email</th><th>Miestnost</th><th>Klapka</th><th>Katedra</th></tr>";
+			$this->_table = '<table border="9" class="_table" align="center" style="font-size:large"; BORDERCOLOR=black>' . "<tr><th>Meno</th><th>email</th><th>Miestnost</th><th>Klapka</th><th>Katedra</th></tr>";
 			foreach ($data as $key) {
 				$this->_table .= "<tr><td>".ucfirst($key->meno)." ".ucfirst($key->priezvisko)."</td><td>";
 				$this->_table .= hideMail($key->email);
