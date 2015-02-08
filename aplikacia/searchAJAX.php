@@ -3,7 +3,7 @@ require_once 'core/init.php';
 require_once 'functions/functions.php';
 $inst = DB::getInstance();
 
-$searchResults = $inst->getSearchRes( ['meno', 'priezvisko'], 
+$searchResults = $inst->getSearchRes( ['meno', 'priezvisko', 'miestnost'], 
 					'osoba',["",'LIKE', '%'. Input::get('vst') . '%' ]);
 
 // print_r($searchResults->results()); 
