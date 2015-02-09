@@ -1,4 +1,4 @@
-4. Február
+Datum: 4. februar 2015
 
 Dobry den,
 chcel by som Vas tymto informovat, ze doslo ku konzultacii a predvedeniu projektu TIS
