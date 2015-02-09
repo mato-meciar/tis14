@@ -16,10 +16,10 @@ Kalendár
 * ~~do 24.10.2014, 12:20 Analýza technológií, dekompozícia a dátový model~~, 5 bodov
 * ~~do 4.11.2014, 12:20 Návrh~~, 5 bodov
 * ~~do 11.11.2014, 12:20 Podrobná špecifikácia komponentov~~, 5 bodov
-* do 18.11.2014, 12:20 Hotové komponenty, 1. verzia, 5 bodov
-* do 25.11.2014, 12:20 Hotové komponenty s dokumentáciou, 5 bodov
-* do 2.12.2014, 12:20 Integrované dielo s dokumentáciou, 5 bodov
-* do 9.12.2014, 12:20 Výsledok testovania, 5 bodov
-* do 16.12.2014, 12:20 Záznam z odovzdania a predvedenia diela zadávateľovi, 5 bodov
-* do 12.01.2015, 12:00 Vlastné zhodnotenie diela, návrhy na zmeny v ďalšej verzii, zhodnotenie vlastnej tímovej práce, 5 bodov
+* ~~do 18.11.2014, 12:20 Hotové komponenty, 1. verzia~~, 5 bodov
+* ~~do 25.11.2014, 12:20 Hotové komponenty s dokumentáciou~~, 5 bodov
+* ~~do 2.12.2014, 12:20 Integrované dielo s dokumentáciou~~, 5 bodov
+* ~~do 9.12.2014, 12:20 Výsledok testovania~~, 5 bodov
+* ~~do 16.12.2014, 12:20 Záznam z odovzdania a predvedenia diela zadávateľovi~~, 5 bodov
+* ~~do 12.01.2015, 12:00 Vlastné zhodnotenie diela, návrhy na zmeny v ďalšej verzii, zhodnotenie vlastnej tímovej práce~~, 5 bodov
 * do 19.01.2014, 12:00 kompletná Záverečná správa, 5 bodov
