@@ -3,6 +3,7 @@
 	class Admin{
 
 		private $_DBInstance;
+		private $_error;
 
 		public function __construct($DBInst = null){
 			$this->_DBInstance = $DBInst;
@@ -22,13 +23,21 @@
 		}
 
 		private function validate(){
-				if( $this->checkOldPass() && 							//kontrola stareho hesla
-					strlen(Input::get('new_pass')) >= 6 &&				//kontrola ci dlzka noveho hesla je vacsia alebo roovna 6
-					Input::get('new_pass') == Input::get('rep_pass')	//kontrola ci sa nove hesla zhoduju 
-					)
-					return true;
-				
-				return false;
+
+				if( !$this->checkOldPass()){//kontrola stareho hesla
+					$this->_error = "Stare heslo sa nenachadza v databaze!";
+					return false;
+
+				} else if(strlen(Input::get('new_pass')) < 6){						//kontrola ci dlzka noveho hesla je vacsia alebo roovna 6			
+					$this->_error = "Heslo je kratsie ako 6 znakov";
+					return false;
+
+				} else if(Input::get('rep_pass') != Input::get('new_pass')){		//kontrola ci sa nove hesla zhoduju 
+					$this->_error = "Hesla sa nezhoduju";
+					return false;
+				}
+
+				return true;
 		}
 
 
@@ -40,8 +49,8 @@
 					'salt'		=>	$newSalt
 					)))
 					return true;
-				return false;
 			}
+			return false;
 		}
 
 
@@ -50,5 +59,21 @@
 			return $data;					//sparsovane
 		}
 
+		public function vratChybu(){
+			if($this->_error) return $this->_error;
+		}
+
+		public function pridajOsobu(){
+			if($this->_DBInstance->insert('osoba',array(
+	  			'priezvisko' 	=> Input::get('priezvisko'),
+	  			'meno' 			=> Input::get('meno'),
+	  			'email' 		=> Input::get('email'),
+	  			'miestnost'		=> Input::get('miestnost'),
+	  			'klapka' 		=> Input::get('klapka'),
+	  			'katedra' 		=> Input::get('katedra')
+  				)))
+  				return true;
+  			return false;
+		}
 
 	}

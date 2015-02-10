@@ -5,6 +5,12 @@
 
   if(Session::exists('admin')){
   	$admin = new Admin($inst);
+
+    if(Input::exists())
+      if(Input::get('logout')){
+        Session::destroy();
+      }
+
   }
 
   //$salt = Hash::salt();					//vytvorenie admina, test
@@ -22,15 +28,35 @@
 <html>
 <head>
 	<title>TIS</title>
-	<div class="header">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <script type="text/javascript" src="js/jquery.js"></script>  
+</head>
+<body>
+<header>
+  <div class="header">
   <img src="img/logo.png" alt="logo" />
   <h1>Databáza zamestnancov Univerzity Komenského</h1>
   </div>
-  
-	<link rel="stylesheet" type="text/css" href="css/main.css">
-	<script type="text/javascript" src="js/jquery.js"></script>
-</head>
-<body>
+</header>
+
+<?php 
+  if(!Session::exists('admin'))
+    echo "<a href='index.php?page=login'><img src='img/login.jpg'></a> ";
+  else{
+    echo "<a href='index.php'>Hlavná stránka </a>";
+    echo "<a href='index.php?page=control_panel'> Control Panel</a> ";
+
+?>
+    
+    <form method='post' id='logoutForm'>
+      <input type="submit" name="logout" value="Logout">
+    </form>
+   
+   <?php
+  }
+  header('Content-Type: text/html; charset=UTF-8');
+?> 
+<br>
 	<?php
 		// Definovanie nacitavania stranok v template
 		$page = Input::Get('page');
