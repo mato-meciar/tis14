@@ -22,5 +22,20 @@
     	public function show() {
     		echo $this->_table;
     	}
+
+    	public function getCSV($data) {
+    		header("Content-type: text/csv");
+		    header("Content-Disposition: attachment; filename=file.csv");
+		    header("Pragma: no-cache");
+		    header("Expires: 0");
+			$output = fopen('php://output', 'w');
+
+			fputcsv($output, array('priezvisko', 'meno', 'email', 'miestnost', 'klapka', 'katedra'));
+
+			foreach ($data as $key) {
+				fputcsv($output, array($key->priezvisko, $key->meno, $key->email, $key->miestnost, $key->klapka, $key->katedra));
+			}
+			exit();
+    	}
 	}
 
