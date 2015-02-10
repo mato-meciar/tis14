@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.0.4
+-- version 4.2.11
 -- http://www.phpmyadmin.net
 --
--- Hostiteƒæ: localhost
--- Vygenerovan√©: √öt 10.Feb 2015, 14:03
--- Verzia serveru: 5.6.12-log
--- Verzia PHP: 5.4.12
+-- Hostiteƒæ: 127.0.0.1
+-- ƒåas generovania: √öt 10.Feb 2015, 16:45
+-- Verzia serveru: 5.6.21
+-- Verzia PHP: 5.6.3
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -19,8 +19,6 @@ SET time_zone = "+00:00";
 --
 -- Datab√°za: `fmfi`
 --
-CREATE DATABASE IF NOT EXISTS `fmfi` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `fmfi`;
 
 -- --------------------------------------------------------
 
@@ -29,16 +27,15 @@ USE `fmfi`;
 --
 
 CREATE TABLE IF NOT EXISTS `osoba` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `priezvisko` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
-  `meno` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
-  `email` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
-  `miestnost` varchar(10) COLLATE utf8_unicode_ci NOT NULL,
+`id` int(11) NOT NULL,
+  `priezvisko` varchar(50) COLLATE utf8_slovak_ci NOT NULL,
+  `meno` varchar(50) COLLATE utf8_slovak_ci NOT NULL,
+  `email` varchar(50) COLLATE utf8_slovak_ci NOT NULL,
+  `miestnost` varchar(10) COLLATE utf8_slovak_ci NOT NULL,
   `klapka` int(11) NOT NULL,
-  `katedra` varchar(20) COLLATE utf8_unicode_ci NOT NULL,
-  `foto` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=617 ;
+  `katedra` varchar(20) COLLATE utf8_slovak_ci NOT NULL,
+  `foto` varchar(255) COLLATE utf8_slovak_ci NOT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=618 DEFAULT CHARSET=utf8 COLLATE=utf8_slovak_ci;
 
 --
 -- S≈•ahujem d√°ta pre tabuƒæku `osoba`
@@ -666,21 +663,50 @@ INSERT INTO `osoba` (`id`, `priezvisko`, `meno`, `email`, `miestnost`, `klapka`,
 --
 
 CREATE TABLE IF NOT EXISTS `users` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `login` varchar(30) COLLATE utf8_unicode_520_ci NOT NULL,
-  `password` varchar(64) COLLATE utf8_unicode_520_ci NOT NULL,
+`id` int(11) NOT NULL,
+  `login` varchar(30) COLLATE utf8_slovak_ci NOT NULL,
+  `password` varchar(64) COLLATE utf8_slovak_ci NOT NULL,
   `salt` varbinary(32) NOT NULL,
-  `admin` int(11) NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_520_ci AUTO_INCREMENT=3 ;
+  `admin` int(11) NOT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8 COLLATE=utf8_slovak_ci;
 
 --
 -- S≈•ahujem d√°ta pre tabuƒæku `users`
 --
 
 INSERT INTO `users` (`id`, `login`, `password`, `salt`, `admin`) VALUES
-(2, 'admin', '49d3e405a52d3f426647cea12b098c3996a7ae2cb310fb36de8ea83d6f3a20b6', '‡‚O9∆ù›Y]G*É…)iù7ŸÒ»wïåF;zjÜ', 1);
+(2, 'admin', '49d3e405a52d3f426647cea12b098c3996a7ae2cb310fb36de8ea83d6f3a20b6', 0xe0e24f3908c69ddd595d01472a83c929699d37d9f1c877958c0846083b7a6a86, 1);
 
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `osoba`
+--
+ALTER TABLE `osoba`
+ ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `users`
+--
+ALTER TABLE `users`
+ ADD PRIMARY KEY (`id`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `osoba`
+--
+ALTER TABLE `osoba`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=618;
+--
+-- AUTO_INCREMENT for table `users`
+--
+ALTER TABLE `users`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=3;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

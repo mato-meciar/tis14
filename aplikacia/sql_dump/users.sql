@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Hostiteľ: 127.0.0.1
--- Čas generovania: Út 10.Feb 2015, 10:36
+-- Čas generovania: Út 10.Feb 2015, 16:46
 -- Verzia serveru: 5.6.21
 -- Verzia PHP: 5.6.3
 
@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `login`, `password`, `salt`, `admin`) VALUES
-(2, 'admin', '8e95215145f10a75162057867c7e6a064ea32a855288028a01cc689acbdb98d6', 0xf2c697964e44f33684e6cfed9d1b138d01bf8d4a0e6ee3ced2c4b97a62d910b6, 1);
+(2, 'admin', '49d3e405a52d3f426647cea12b098c3996a7ae2cb310fb36de8ea83d6f3a20b6', 0xe0e24f3908c69ddd595d01472a83c929699d37d9f1c877958c0846083b7a6a86, 1);
 
 --
 -- Indexes for dumped tables

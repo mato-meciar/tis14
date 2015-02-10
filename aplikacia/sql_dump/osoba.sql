@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Hostiteľ: 127.0.0.1
--- Čas generovania: Út 10.Feb 2015, 10:36
+-- Čas generovania: Út 10.Feb 2015, 16:46
 -- Verzia serveru: 5.6.21
 -- Verzia PHP: 5.6.3
 
@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS `osoba` (
   `klapka` int(11) NOT NULL,
   `katedra` varchar(20) COLLATE utf8_slovak_ci NOT NULL,
   `foto` varchar(255) COLLATE utf8_slovak_ci NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=614 DEFAULT CHARSET=utf8 COLLATE=utf8_slovak_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=618 DEFAULT CHARSET=utf8 COLLATE=utf8_slovak_ci;
 
 --
 -- Sťahujem dáta pre tabuľku `osoba`
@@ -674,7 +674,7 @@ ALTER TABLE `osoba`
 -- AUTO_INCREMENT for table `osoba`
 --
 ALTER TABLE `osoba`
-MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=614;
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=618;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
