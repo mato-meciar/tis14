@@ -22,4 +22,4 @@ Kalendár
 * ~~do 9.12.2014, 12:20 Výsledok testovania~~, 5 bodov
 * ~~do 16.12.2014, 12:20 Záznam z odovzdania a predvedenia diela zadávateľovi~~, 5 bodov
 * ~~do 12.01.2015, 12:00 Vlastné zhodnotenie diela, návrhy na zmeny v ďalšej verzii, zhodnotenie vlastnej tímovej práce~~, 5 bodov
-* do 19.01.2014, 12:00 kompletná Záverečná správa, 5 bodov
+* ~~do 19.01.2014, 12:00 kompletná Záverečná správa~~, 5 bodov
