@@ -3,6 +3,15 @@
   require_once 'functions/functions.php';
   $inst = DB::getInstance();
 
+  if(isset($_GET['miestnost'])) {
+    $searchResults = $inst->getSearchRes( ['meno', 'priezvisko', 'miestnost'], 
+          'osoba',["",'LIKE', '%'. $_GET['miestnost']. '%' ]);
+
+    $resTable = vypisUdaje::createTable($searchResults->results());
+
+    $resTable->getCSV($searchResults->results());
+  }
+
   if(Session::exists('admin')){
   	$admin = new Admin($inst);
 
