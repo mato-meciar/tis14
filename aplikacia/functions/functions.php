@@ -15,7 +15,7 @@ function hideMail($email) {
 function katedra($kat) {
 	switch ($kat) {
 		case "KAGDM":
-			return "<a href='http://www.ddm.fmph.uniba.sk/index-KATEDRA.html'>KAGDM target='_blank'";
+			return "<a href='http://www.ddm.fmph.uniba.sk/index-KATEDRA.html' target='_blank'>KAGDM";
 			break;
 		case "KAMS":
 			return "<a href='http://www.iam.fmph.uniba.sk/index-sk.html' target='_blank'>KAMS";
